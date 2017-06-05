@@ -3,7 +3,7 @@ layout: book
 title: "Happy"
 author: Derren Brown
 amazon: https://www.amazon.co.uk/Happy-More-Less-Everything-Absolutely/dp/0593076192
-permalink: /book/happy
+permalink: /book/Happy
 date: 2017-05-26
 desc: This is one of the best books I’ve read in the last two years. Profound, life-changing ideas here. It’s a lot of Stoicism, but Brown wraps it in with philosophy and grander ideas in a way that I found totally original and, frankly, brilliant.
 ---

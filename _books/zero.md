@@ -3,7 +3,7 @@ layout: book
 title: "Zero to One"
 author: Peter Thiel and Blake Masters
 amazon: https://www.amazon.com/dp/B00J6YBOFQ/
-permalink: /book/zero
+permalink: /book/ZeroToOne
 date: 2017-06-01
 desc: Fabulous book on building the future. I love the notion of 'secrets'. Probably a must-read for thinking about business and creation. I loved it.
 ---

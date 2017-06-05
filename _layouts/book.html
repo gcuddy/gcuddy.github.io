@@ -9,7 +9,7 @@
     <h1 class="f4">by {{ page.author }}</h1>
     <h1 class="f6 i lh-copy gray">Date read: {{ page.date | date: "%Y-%m-%d" }}</h1>
        <div class="dark-gray measure-wide lh-copy f5">
-       <p>{{ page.desc }}</p>
+       <p>{{ page.desc | markdownify }}</p>
        <h1 class="f4">notes</h4>
        {{ content }}
        </div>
