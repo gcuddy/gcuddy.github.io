@@ -1,23 +1,17 @@
 <!doctype html>
 <html lang="en">
-<head>
-  <title>{% if page.title %} {{ page.title }} | {% endif %} Gus Cuddy</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://unpkg.com/tachyons@4.7.0/css/tachyons.min.css"/>
-</head>
-  <body class="avenir pa5-ns pa4 near-black bg-near-white">
-    <h1 class="f1 lh-title"><a href="" class="link near-black">Gus Cuddy</a></h1>
-    <div class="pv3 gray">
-        <a  class="gray link dim f6 f5-ns mr3" href="index.html">Home</a>
-        <a  class="link dim gray f6 f5-ns mr3" target="_blank" href="http://medium.com/@guscuddy">Blog</a>
-        <a  class="link dim gray f6 f5-ns mr3" href="work.html">Theatre</a>
-    </div>
+{% include head.html %}
+{% include header.html %}
 
-       <p class="dark-gray measure-wide lh-copy baskerville">
+  <body class="avenir ph5 near-black bg-near-white">
+    <h1 class="f5 lh-title"><a href="/blog" class="link dark-gray dim">Articles:</a></h1>
+    <h1 class="f2 lh-title">{{ page.title }}</h1>
+    <h1 class="f6 i lh-copy gray baskerville"> {{ page.date | date: "%Y-%m-%d" }}</h1>
+       <div class="dark-gray measure-wide lh-copy baskerville f4">
+
        {{ content }}
-       </p>
 
-
+       </div>
   </body>
-  <footer class='pv4 mid-gray'><small>&copy; {{ site.time | date: '%y' }} Gus Cuddy</small></footer>
+  {% include footer.html %}
 </html>

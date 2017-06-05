@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+{% include head.html %}
+{% include header.html %}
+
+  <body class="avenir ph5 near-black bg-near-white">
+    <h1 class="f5"><a href="/book" class="link dark-gray dim">Book Notes:</a></h1>
+    <h1 class="f2"><a class="black link b dim" target="_blank" href="{{ page.amazon }}">{{ page.title }}</a></h1>
+    <h1 class="f4">by {{ page.author }}</h1>
+    <h1 class="f6 i lh-copy gray">Date read: {{ page.date | date: "%Y-%m-%d" }}</h1>
+       <div class="dark-gray measure-wide lh-copy f5">
+       <p>{{ page.desc }}</p>
+       <h1 class="f4">notes</h4>
+       {{ content }}
+       </div>
+  </body>
+</html>

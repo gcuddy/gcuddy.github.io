@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+{% include head.html %}
+{% include header.html %}
+
+  <body class="avenir ph5 near-black bg-near-white">
+    <h1 class="f5 lh-title"><a href="/plays" class="link dark-gray dim">Plays:</a></h1>
+    <h1 class="f2 lh-title">{{ page.title }}</h1>
+       <div class="dark-gray measure-wide lh-copy baskerville f4">
+         <p class="i">{{ page.desc }}</p>
+         <p>In an interest to show my work, here are some notes.</p>
+       {{ content }}
+
+       </div>
+  </body>
+</html>

@@ -1,6 +1,7 @@
 --- 
-layout: post 
+layout: post
 title: "The finger pointing at the moon"
+permalink: /moon
 ---
 
 We have a serious problem.
@@ -18,8 +19,10 @@ Instead, we have a generation once-removed.
 
 We are obsessed with “life-hacking” everything: optimize your time. 10x
 results by buying this software. Obsessed with the cult of productivity,
-the cults of minimalism and organization. 
+the cults of minimalism and organization.
 
-But it’s all just fingers pointing at fingers pointing at the moon. 
+But it’s all just fingers pointing at fingers pointing at the moon.
 
 Get real, turn off the internet, and start working on the moon.
+
+![Moon](/images/moon.jpg)
