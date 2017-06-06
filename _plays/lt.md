@@ -13,10 +13,6 @@ desc: A large, sprawling kaleidoscope about startups, VR porn, cheating death, a
 “I sat down to lunch with him [Paul Thomas Anderson] one day and I was like, ‘Dude, pick and choose your battles.’ And he looked me square in the eye and said, ‘Graziano, you never pick and choose your battles. If you feel passionately about something, you go after it, no matter how many things you’ve got on the table.’”
 -Mark Graziano, Postproduction Supervisor on Boogie Nights [From Livin’ Thing: An Oral History of Boogie Nights on Grantland]
 
-“The hot and spirituous blood of a young man will pour into the old one as if it were from a fountain of youth.” - 1615 German doctor
-
-“Very few people take unorthodox ideas seriously today, and the mainstream sees that as a sign of progress. We can be glad that there are fewer crazy cults now, yet that gain has come at great cost: we have given up our sense of wonder at secrets left to be discovered.” -Peter Thiel
-
 “Human nature is not a machine to be built after a model, and set to do exactly the work prescribed for it, but a tree, which requires to grow and develop itself on all sides, according to the tendency of the inward forces which make it a living thing.”
 -John Stuart Mill
 

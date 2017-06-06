@@ -26,3 +26,8 @@ That's this website. Powered by Jekyll and Github Pages.
 {: .f4}
 
 Just trying to make the world a better place.
+
+# [Pinboard](https://pinboard.in/u:guscuddy/public/)
+{: .f4}
+
+I share interesting links I've found from the internet on my public [pinboard.in](http://pinboard.in) page. Check it out!
