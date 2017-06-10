@@ -4,10 +4,10 @@ permalink: /contact
 title: "CONTACT"
 ---
 
-# Contact gus.cuddy@gmail.com
+# Contact gus@guscuddy.com
 {: .f3}
 
-Feel free to email me at [gus.cuddy@gmail.com](mailto:gus.cuddy@gmail.com) for any reason, professional or personal. I like getting to know people.
+Feel free to email me at [gus@guscuddy.com](mailto:gus@guscuddy.com) for any reason, professional or personal. I like getting to know people.
 
 # Newsletter
 {: .f3}
