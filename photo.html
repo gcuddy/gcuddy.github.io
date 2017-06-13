@@ -1,0 +1,35 @@
+---
+layout: photo
+permalink: /photo
+title: "PHOTOGRAPHY"
+---
+
+<h1 class="f5 avenir lh-title"><a href="/projects">Photos:</a> NYC - June 2017</h1>
+
+{% assign image_files = site.static_files | where: "image", true %}
+{% for image in site.static_files %}
+    {% if image.path contains 'images/june2017' %}
+        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+    {% endif %}
+{% endfor %}
+
+<!--
+  <div class="baskerville ph3 ph4-m ph5-l pt2">
+    <div class="f5 f3-m lh-copy">
+      <div class="cf">
+        <div class="fl w-100 w-50-l pr2-l pb3">
+          <img class="db w-100" src="http://mrmrs.github.io/photos/010.jpg" alt="Photo of a dusk skyline above a grassy rockface covered in trees.">
+        </div>
+        <div class="fl w-50 w-50-l pr1 pr0-l pl2-l pb3">
+          <img class="db w-100" src="http://mrmrs.github.io/photos/011.jpg" alt="Photo of the sea and sky on the horizon with the foundations of a demolished house.">
+        </div>
+        <div class="fl w-50 w-50-l pl2 pl0-l pr2-l pb3">
+          <img class="db w-100" src="http://mrmrs.github.io/photos/012.jpg" alt="Photo of the sea with mist covering the rocky formations near the shore.">
+        </div>
+        <div class="fl w-100 w-50-l pl2-l">
+          <img class="db w-100" src="http://mrmrs.github.io/photos/013.jpg" alt="Photo of the foundations of a building on a cliff overlooking a lighthouse.">
+        </div>
+      </div>
+    </div>
+  </div>
+-->
