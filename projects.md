@@ -12,6 +12,11 @@ title: "PROJECTS"
 
 I collect my notes from the books I've read and put them here.
 
+# [Photography](/photo)
+{: .f4}
+
+I have always loved photography and cinema. Lately I've been getting back into it as a side hobby, just snapping things on my phone as they come up and editing them later.
+
 # Untitled theatre company
 {: .f4}
 
