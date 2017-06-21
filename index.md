@@ -9,7 +9,7 @@ I love theatre, [writing](/blog), and [meeting people](/contact).
 
 On the side, I do some [playwriting](/plays), [learning](/book) and [other projects](/projects).
 
-I am from Rochester, NY and am currently based in NYC.
+I am from Rochester, NY and am currently based in [NYC](/photo).
 
 My favorite movie is [*Muppet Treasure Island*](https://www.youtube.com/watch?v=Nrj8EZm9ca8).
 
