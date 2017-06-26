@@ -16,4 +16,4 @@ My favorite movie is [*Muppet Treasure Island*](https://www.youtube.com/watch?v=
 ## [Contact](/contact)
 
 Feel free to [get in touch](/contact). You can also find me on
-[Twitter](http://twitter.com/guscuddy) (I'm not too active there).
+[Twitter](http://twitter.com/guscuddy).
