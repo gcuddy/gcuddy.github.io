@@ -7,3 +7,7 @@ _site/
 Gemfile.lock
 .jekyll-metadata
 images/thumb/
+.Ulysses-Group.plist
+.Ulysses-favorites.plist
+_posts/.Ulysses-Group.plist
+_drafts/
