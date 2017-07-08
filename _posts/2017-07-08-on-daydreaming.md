@@ -25,3 +25,5 @@ Sometimes you have to talk late with friends about nothing in particular, and ab
 Don’t believe anyone who says daydreaming is for suckers. Sometimes, it’s the *only* thing to do. 
 
 It just requires two things: a sense of wonder, and patience that it all adds up to something or another.
+
+![Dreaming](/images/duck.jpg)
