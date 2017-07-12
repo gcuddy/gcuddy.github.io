@@ -36,8 +36,3 @@ I share interesting links I've found from the internet on my public [pinboard.in
 {: .f4}
 
 Just trying to make the world a better place.
-
-# [guscuddy.com](https://github.com/gcuddy/gcuddy.github.io)
-{: .f4}
-
-That's this website. Powered by Jekyll and Github Pages.
