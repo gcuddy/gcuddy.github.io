@@ -14,4 +14,4 @@ Feel free to [get in touch](/contact). You can also find me on
 
 ## More
 
-I also [write plays](/plays), direct, [blog](/blog), and work on [other projects](/projects).
+I also write [plays](/plays) and [short essays](/blog), direct, and work on [other projects](/projects).
