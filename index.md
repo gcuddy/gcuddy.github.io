@@ -15,7 +15,3 @@ Feel free to [get in touch](/contact). You can also find me on
 ## More
 
 I also write [plays](/plays) and [short essays](/blog), direct, and work on [other projects](/projects).
-
-## Newsletter
-
-Around once a month I send out a [newsletter](/newsletter). I recommend some books and theatre. Sign up [here](/newsletter).
