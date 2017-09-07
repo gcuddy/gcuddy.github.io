@@ -1,17 +1,56 @@
 ---
 layout: default
+images:
+  - image_path: /images/thumb/cuddy_headshot.jpg
+    title: Headshot 1
+    link: /images/cuddy_headshot.jpg
+  - image_path: /images/thumb/cuddy_headshot1.jpg
+    title: Headshot 2
+    link: /images/cuddy_headshot1.jpg
+  - image_path: /images/thumb/cuddy_headshot2.jpg
+    title: Headshot 3
+    link: /images/cuddy_headshot2.jpg
+  - image_path: /images/thumb/cuddy_headshot3.jpg
+    title: Headshot 4
+    link: /images/cuddy_headshot3.jpg
 ---
 
-Hey, I'm Gus. Mostly, I'm an [actor](/a).
+Hey, I'm Gus. I'm an actor.
 {: .f3}
 
 I am from Rochester, NY and am currently based in NYC.
 
-## [Contact](/contact)
+## Headshots
 
-Feel free to [get in touch](/contact). You can also find me on
-[Twitter](http://twitter.com/guscuddy).
+(click for big)
+
+<ul style="list-style:none; padding-left:0;" class="photo-gallery">
+  {% for image in page.images %}
+    <li style="padding-bottom:.5rem;">
+      <a href="{{ image.link }}">
+        <img src="{{ image.image_path }}" alt="{{ image.title}}"/>
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
+## Resume
+
+(click to download)
+
+<a href="/files/cuddy_resume.pdf"><img src="/images/cuddy_resume.jpg" alt="resume"/></a>
+
+## Contact
+
+Email: [gus.cuddy@gmail.com](mailto:gus.cuddy@gmail.com)
+Phone: [(347) 395-5790](tel:+13473955790)
+
+## Social
+
+Find me on [Actor's Access](http://resumes.actorsaccess.com/guscuddy), [Twitter](http://twitter.com/guscuddy), [Instagram](http://instagram.com/guscuddy), or [Facebook](http://facebook.com/guscuddy).
 
 ## More
+
+[Click here](/a) for more photos of me acting.
 
 I also write [plays](/plays) and [short essays](/blog), direct, and work on [other projects](/projects).
