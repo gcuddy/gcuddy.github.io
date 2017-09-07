@@ -43,6 +43,7 @@ I am from Rochester, NY and am currently based in NYC.
 ## Contact
 
 Email: [gus.cuddy@gmail.com](mailto:gus.cuddy@gmail.com)
+
 Phone: [(347) 395-5790](tel:+13473955790)
 
 ## Social
