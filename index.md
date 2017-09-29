@@ -19,11 +19,9 @@ I am from Rochester, NY and am currently based in NYC.
 
 ## Headshot
 
-<li style="padding-bottom:.5rem;">
   <a href="/images/cuddy_headshot.jpg">
     <img src="/images/thumb/cuddy_headshot.jpg" alt="Headshot"/>
   </a>
-</li>
 
 ## Contact
 
