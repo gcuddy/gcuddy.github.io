@@ -25,9 +25,8 @@ I am from Rochester, NY and am currently based in NYC.
 
 ## Contact
 
-**Ivy Rock Management**
-Ann Kelly
-(646) 418-5418
+**Ivy Rock Management**  
+(646) 418-5418  
 ivyrockmanagement@gmail.com
 
 Find me on [Actor's Access](http://resumes.actorsaccess.com/guscuddy), [Twitter](http://twitter.com/guscuddy), and [Instagram](http://instagram.com/guscuddy). Or [email me](mailto:gus.cuddy@gmail.com) personally.
