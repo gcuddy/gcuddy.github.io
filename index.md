@@ -1,17 +1,14 @@
 ---
 layout: default
 images:
-  - image_path: /images/thumb/cuddy_headshot.jpg
-    title: Headshot 1
-    link: /images/cuddy_headshot.jpg
   - image_path: /images/thumb/cuddy_headshot1.jpg
-    title: Headshot 2
+    title: Headshot 1
     link: /images/cuddy_headshot1.jpg
   - image_path: /images/thumb/cuddy_headshot2.jpg
-    title: Headshot 3
+    title: Headshot 2
     link: /images/cuddy_headshot2.jpg
   - image_path: /images/thumb/cuddy_headshot3.jpg
-    title: Headshot 4
+    title: Headshot 2
     link: /images/cuddy_headshot3.jpg
 ---
 
@@ -20,7 +17,30 @@ Hey, I'm Gus. I'm an actor.
 
 I am from Rochester, NY and am currently based in NYC.
 
-## Headshots
+## Headshot
+
+<li style="padding-bottom:.5rem;">
+  <a href="/images/cuddy_headshot.jpg">
+    <img src="/images/thumb/cuddy_headshot.jpg" alt="Headshot"/>
+  </a>
+</li>
+
+## Contact
+
+**Ivy Rock Management**
+Ann Kelly
+(646) 418-5418
+ivyrockmanagement@gmail.com
+
+Find me on [Actor's Access](http://resumes.actorsaccess.com/guscuddy), [Twitter](http://twitter.com/guscuddy), and [Instagram](http://instagram.com/guscuddy). Or [email me](mailto:gus.cuddy@gmail.com) personally.
+
+## Resume
+
+(click to download)
+
+<a href="/files/cuddy_resume.pdf"><img src="/images/cuddy_resume.jpg" alt="resume"/></a>
+
+## More Headshots
 
 (click for big)
 
@@ -33,22 +53,6 @@ I am from Rochester, NY and am currently based in NYC.
     </li>
   {% endfor %}
 </ul>
-
-## Resume
-
-(click to download)
-
-<a href="/files/cuddy_resume.pdf"><img src="/images/cuddy_resume.jpg" alt="resume"/></a>
-
-## Contact
-
-Email: [gus.cuddy@gmail.com](mailto:gus.cuddy@gmail.com)
-
-Phone: [(347) 395-5790](tel:+13473955790)
-
-## Social
-
-Find me on [Actor's Access](http://resumes.actorsaccess.com/guscuddy), [Twitter](http://twitter.com/guscuddy), [Instagram](http://instagram.com/guscuddy), or [Facebook](http://facebook.com/guscuddy).
 
 ## More
 
