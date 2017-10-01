@@ -12,24 +12,19 @@ images:
     link: /images/cuddy_headshot3.jpg
 ---
 
-Hey, I'm Gus. I'm an actor.
+Hey, I'm Gus. I'm an actor based in NYC.
 {: .f3}
-
-I am from Rochester, NY and am currently based in NYC.
-
-## Headshot
 
   <a href="/images/cuddy_headshot.jpg">
     <img src="/images/thumb/cuddy_headshot.jpg" alt="Headshot"/>
   </a>
 
-## Contact
-
 **Ivy Rock Management**  
+Ann Kelly
 (646) 418-5418  
 ivyrockmanagement@gmail.com
 
-Find me on [Actor's Access](http://resumes.actorsaccess.com/guscuddy), [Twitter](http://twitter.com/guscuddy), and [Instagram](http://instagram.com/guscuddy). Or [email me](mailto:gus.cuddy@gmail.com) personally.
+Find me on [Actor's Access](http://resumes.actorsaccess.com/guscuddy), [Backstage](http://backstage.com/u/guscuddy),  [Twitter](http://twitter.com/guscuddy), and [Instagram](http://instagram.com/guscuddy). Or [email me](mailto:gus.cuddy@gmail.com) personally.
 
 ## Resume
 
@@ -50,9 +45,3 @@ Find me on [Actor's Access](http://resumes.actorsaccess.com/guscuddy), [Twitter]
     </li>
   {% endfor %}
 </ul>
-
-## More
-
-[Click here](/a) for more photos of me acting.
-
-I also write [plays](/plays) and [short essays](/blog), direct, and work on [other projects](/projects).
