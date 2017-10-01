@@ -26,15 +26,9 @@ ivyrockmanagement@gmail.com
 
 Find me on [Actor's Access](http://resumes.actorsaccess.com/guscuddy), [Backstage](http://backstage.com/u/guscuddy),  [Twitter](http://twitter.com/guscuddy), and [Instagram](http://instagram.com/guscuddy). Or [email me](mailto:gus.cuddy@gmail.com) personally.
 
-## Resume
-
-(click to download)
-
 <a href="/files/cuddy_resume.pdf"><img src="/images/cuddy_resume.jpg" alt="resume"/></a>
 
 ## More Headshots
-
-(click for big)
 
 <ul style="list-style:none; padding-left:0;" class="photo-gallery">
   {% for image in page.images %}
