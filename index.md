@@ -20,7 +20,7 @@ Hey, I'm Gus. I'm an actor based in NYC.
   </a>
 
 **Ivy Rock Management**  
-Ann Kelly
+Ann Kelly  
 (646) 418-5418  
 ivyrockmanagement@gmail.com
 
