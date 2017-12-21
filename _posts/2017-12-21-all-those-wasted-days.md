@@ -10,7 +10,7 @@ We spiral around doing nothing. Walk down empty streets with our heads in the cl
 
 But there’s a secret to life and that secret is that, if you look for it, all these wasted days add up to something.
 
-It may not be much: it may just be some important aspect of your personality, or something that gives you perspective. But it can also be larger: the friend you made at 3am can change your life. The poetry becomes a foundation for your art. Conversations you had come back into your life in weird and unexpected and wonderful ways. The experiences you with others share make up the fabric of your existence, the things that tie us together in intimate ways.
+It may not be much: it may just be some important aspect of your personality, or something that gives you perspective. But it can also be larger: the friend you made at 3am can change your life. The poetry becomes a foundation for your art. Conversations you had come back into your life in weird and unexpected and wonderful ways. The experiences you share with others make up the fabric of your existence, become the things that tie us together in intimate ways.
 
 Truth is, there is no “reason” for any of this. We’re alive for an incredibly brief period of time and we spend much of our early years just dicking around, and it’s easy to feel guilt over this dicking around.
 
