@@ -39,3 +39,7 @@ Find me on [Actor's Access](http://resumes.actorsaccess.com/guscuddy), [Backstag
     </li>
   {% endfor %}
 </ul>
+
+## More From Me
+
+I also write, produce, and direct. Follow my [essays](/blog) on life, creativity, and art.
