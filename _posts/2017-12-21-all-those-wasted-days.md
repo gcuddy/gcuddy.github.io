@@ -15,3 +15,5 @@ It may not be much: it may just be some important aspect of your personality, or
 Truth is, there is no “reason” for any of this. We’re alive for an incredibly brief period of time and we spend much of our early years just dicking around, and it’s easy to feel guilt over this dicking around.
 
 But you actually have to have faith. Faith that it’s going somewhere. That it all adds up to something. All the pointlessness, all the stupidity, all the wasted nights. They’re actually worth something. It’s a lesson I keep learning, that nights I thought were stupid and wasted come rippling back into my life in profound and positive ways. But you have to look for it.
+
+![Wasted](/images/june2017/roof-drink-2.jpg)
