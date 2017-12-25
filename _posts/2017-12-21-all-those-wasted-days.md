@@ -6,7 +6,7 @@ permalink: /wasted
 
 When we grow up, it seems like we have a lot of wasted days.
 
-We spiral around doing nothing. Walk down empty streets with our heads in the clouds. Talk to our friends about life and stupid shit at 4 AM. Stay up all night for no reason. Make out drunkly with people we shouldn’t. Write stupid poetry, scribble weird doodles, make new friends and lose old ones. Sometimes we lay in bed and just listen to music, or cry, or watch an old movie.
+We spiral around doing nothing. Walk down empty streets with our heads in the clouds. [Daydream](http://guscuddy.com/daydreaming) Talk to our friends about life and stupid shit at 4 AM. Stay up all night for no reason. Make out drunkly with people we shouldn’t. Write stupid poetry, scribble weird doodles, make new friends and lose old ones. Sometimes we lay in bed and just listen to music, or cry, or watch an old movie.
 
 But there’s a secret to life and that secret is that, if you look for it, all these wasted days add up to something.
 
