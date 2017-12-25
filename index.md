@@ -16,12 +16,12 @@ Hey, I'm Gus. I'm an actor based in NYC.
 {: .f3}
 
 <article class="cf">
-  <div class="fl w-100 w-50-ns tc">
+  <div class="fl w-100 w-50-ns">
   <a href="/images/cuddy_headshot.jpg">
     <img src="/images/thumb/cuddy_headshot.jpg" alt="Headshot"/>
   </a>
   </div>
-  <div class="fl w-100 w-50-ns tc">
+  <div class="fl w-100 w-50-ns">
   <a href="/files/cuddy_resume.pdf"><img src="/images/cuddy_resume.jpg" alt="resume"/></a>
   </div>
 </article>
