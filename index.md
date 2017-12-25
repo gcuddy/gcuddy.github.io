@@ -39,25 +39,23 @@ Find me on [Actor's Access](http://resumes.actorsaccess.com/guscuddy), [Backstag
 
 ## Other Headshots
 
-<div class="mw9 center ph3-ns">
-  <div class="cf ph2-ns">
-    <div class="fl w-100 w-third-ns pa2">
+  <div class="cf">
+    <div class="fl w-100 w-third-ns ph1">
     <a href="/images/cuddy_headshot1.jpg">
       <img src="/images/thumb/cuddy_headshot1.jpg" alt="Headshot"/>
     </a>
     </div>
-    <div class="fl w-100 w-third-ns pa2">
+    <div class="fl w-100 w-third-ns ph1">
     <a href="/images/cuddy_headshot2.jpg">
       <img src="/images/thumb/cuddy_headshot2.jpg" alt="Headshot"/>
     </a>
     </div>
-    <div class="fl w-100 w-third-ns pa2">
+    <div class="fl w-100 w-third-ns ph1">
     <a href="/images/cuddy_headshot3.jpg">
       <img src="/images/thumb/cuddy_headshot3.jpg" alt="Headshot"/>
     </a>
     </div>
   </div>
-</div>
 
 ## More
 
