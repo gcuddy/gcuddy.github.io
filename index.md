@@ -15,13 +15,16 @@ images:
 Hey, I'm Gus. I'm an actor based in NYC.
 {: .f3}
 
+(click to download)
+{: .f6}
+
 <article class="cf">
-  <div class="fl w-100 w-50-ns tc">
+  <div class="fl w-100 w-50-ns">
   <a href="/images/cuddy_headshot.jpg">
     <img src="/images/thumb/cuddy_headshot.jpg" alt="Headshot"/>
   </a>
   </div>
-  <div class="fl w-100 w-50-ns tc">
+  <div class="fl w-100 w-50-ns">
   <a href="/files/cuddy_resume.pdf"><img src="/images/cuddy_resume.jpg" alt="resume"/></a>
   </div>
 </article>
@@ -34,18 +37,26 @@ ivyrockmanagement@gmail.com
 Find me on [Actor's Access](http://resumes.actorsaccess.com/guscuddy), [Backstage](http://backstage.com/u/guscuddy),  [Twitter](http://twitter.com/guscuddy), and [Instagram](http://instagram.com/guscuddy). Or [email me](mailto:gus.cuddy@gmail.com) personally.
 
 
-## More Headshots
+## Other Headshots
 
-<ul style="list-style:none; padding-left:0;" class="photo-gallery">
-  {% for image in page.images %}
-    <li style="padding-bottom:.5rem;">
-      <a href="{{ image.link }}">
-        <img src="{{ image.image_path }}" alt="{{ image.title}}"/>
-      </a>
-    </li>
-  {% endfor %}
-</ul>
+<article class="cf">
+  <div class="fl w-100 w-third-ns">
+  <a href="/images/cuddy_headshot1.jpg">
+    <img src="/images/thumb/cuddy_headshot2.jpg" alt="Headshot"/>
+  </a>
+  </div>
+  <div class="fl w-100 w-third-ns">
+  <a href="/images/cuddy_headshot2.jpg">
+    <img src="/images/thumb/cuddy_headshot2.jpg" alt="Headshot"/>
+  </a>
+  </div>
+  <div class="fl w-100 w-third-ns">
+  <a href="/images/cuddy_headshot2.jpg">
+    <img src="/images/thumb/cuddy_headshot2.jpg" alt="Headshot"/>
+  </a>
+  </div>
+</article>
 
-## More From Me
+## More
 
 I also write, produce, and direct. Follow my [essays](/blog) on life, creativity, and art.
