@@ -18,3 +18,7 @@ h2 {
   font-size: 1rem;
   font-family: "avenir next", avenir, sans-serif;
 }
+
+blockquote {
+  border-left: 1px solid #ccc;
+}
