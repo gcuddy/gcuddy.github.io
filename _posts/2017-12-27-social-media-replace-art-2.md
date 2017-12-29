@@ -6,7 +6,7 @@ permalink: /socialmediareplaceart2
 
 One of the most compelling arguments for the [slow replacement of art with social media](http://guscuddy.com/socialmediareplaceart) is that the trends of film and theatre have tended towards naturalism in the last 50 years, arcing closer and closer to getting to *be* real life.
 
-With an Instagram or Snapchat story, you are capturing and consuming real life as 'art'. Is this the peak of naturalism? These stories are endlessly compelling: watching snippets of life is addicting, and social media makes these snippets bite-sized and consumable. Why watch a 2 hour play of people trying to act natural when we can consume the real thing in more palatable lengths?[^1]
+With an Instagram or Snapchat story, you are capturing and consuming real life as 'art'. Is this the peak of naturalism? Watching snippets of life is addicting and compelling, and social media makes these snippets bite-sized and consumable. Why watch a 2 hour play of people trying to act natural when we can consume the real thing in more palatable lengths?[^1]
 
 Maybe the job of theatre and movies, then, is to furiously stake its claim as being something *more* than naturalism. To reach for greater heights, greater feats of human creativity and exploration.
 
