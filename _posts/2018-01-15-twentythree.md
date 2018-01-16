@@ -4,8 +4,6 @@ title: "23"
 permalink: /23
 ---
 
-*NOTE: You can also read this on [Medium](https://medium.com/@guscuddy/23-principles-to-live-by-fd10ccab3156)*
-
 Today I turn 23. Here are 23 things I’ve learned, principles to live by.
 
 1. **ALIGN YOURSELF WITH TRUTH.** It’s always the best course of action. Telling lies—to others, to yourself, to the world—adds up. You are always watching yourself, and when you can’t even trust yourself to tell the truth, your self-esteem starts to crumble. Simplify your life by just being truthful, in every way: in literal conversation, and in being truthful to yourself about what you want in life.
