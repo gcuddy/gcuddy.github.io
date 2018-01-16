@@ -47,5 +47,3 @@ Today I turn 23. Here are 23 things I’ve learned, principles to live by.
 Okay. That’s 23. I hope this list expands and refines over the years. I’ve been surrounded by the most remarkable people in my life, and I hope to continue to meet new people and have the opportunity to spread more love. I love you all, and I love life.
 
 If you have any comments or responses, feel free to shoot me an email: [gus.cuddy@gmail.com](mailto:gus.cuddy@gmail.com).
-
-![23](/images/23.jpg)
