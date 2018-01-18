@@ -8,7 +8,7 @@ It's Monday, January 1st. A new year. A new week.
 
 Ahhhh.
 
-Doesn't that feel good? (Ignoring the New Years' hangover, of course.)
+Doesn't that feel good?
 
 It's like the first page in a new notebook, or a blank snowfall, when everything is just clear:
 
@@ -30,4 +30,4 @@ In that way, you can make your life beautiful. One moment at a time. One blank s
 
 Let's make this year beautiful.
 
-![Rothko](/images/rothko.jpeg)
+![Rothko](/images/june2017/line.jpeg)
