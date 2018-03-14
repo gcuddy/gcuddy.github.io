@@ -12,7 +12,7 @@ images:
     link: /images/cuddy_headshot3.jpg
 ---
 
-Hey, I'm Gus. I'm an actor based in NYC.
+Hey, I'm Gus. I'm an Armenian-American actor based in NYC.
 {: .f3}
 
 (click to download)
