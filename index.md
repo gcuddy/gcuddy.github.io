@@ -59,4 +59,6 @@ Find me on [Actor's Access](http://resumes.actorsaccess.com/guscuddy), [Backstag
 
 ## More
 
+[Sign up for my newsletter.](http://tinyletter.com/guscuddy)
+
 I also write, produce, and direct. Follow my [essays](/blog) on life and art.
