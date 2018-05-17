@@ -12,12 +12,6 @@ images:
     link: /images/cuddy_headshot3.jpg
 ---
 
-Hey, I'm Gus. I'm an Armenian-American actor based in NYC.
-{: .f3}
-
-(click to download)
-{: .f6}
-
 <article class="cf">
   <div class="fl w-100 w-50-ns">
   <a href="/images/cuddy_headshot.jpg">
