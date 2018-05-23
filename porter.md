@@ -4,7 +4,7 @@ permalink: /porter
 title: "Porter Principles"
 ---
 
-<p>Porter operates on several core principles.</p><div class="TOC">
+<p>Porter operates on several core principles.</p><div class="TOC f5">
 
 
 <ul>
