@@ -12,6 +12,8 @@ images:
     link: /images/cuddy_headshot3.jpg
 ---
 
+### I'm Gus. I'm an actor of Armeninan, Lebanese and Irish descent.
+
 <article class="cf">
   <div class="fl w-100 w-50-ns">
   <a href="/images/cuddy_headshot.jpg">
@@ -53,4 +55,4 @@ Find me on [Actor's Access](http://resumes.actorsaccess.com/guscuddy), [Backstag
 
 ## More
 
-I also [write](/blog), produce, and direct.
+I also [write](/blog) and [produce](https://portertheater.com).
