@@ -4,24 +4,30 @@ permalink: /blog
 title: "BLOG"
 ---
 
-<h1 class="f2 lh-title sans-serif">Daily Essays:</h1>
-<p class="i">You can also find me on <a class="link black b dim" target="_blank" href="http://medium.com/@guscuddy">Medium</a>.
+<h1 class="f3 lh-title sans-serif">Daily Essays:</h1>
+<p class="f5 i">You can also find me on <a class="link black b dim" target="_blank" href="http://medium.com/@guscuddy">Medium</a>.
 
 
-  {% for post in site.posts limit:1 %}
-  <h1 class="f3 sans-serif">
-    {{ post.title }}
-    </h1>
-    <span class="sans=serif f4">
-      {{ post.content }}
-    </span>
-  {% endfor %}
+
+    {% for post in site.posts limit:1 %}
+    <p class="f1 sans-serif">
+      {{ post.title }}
+      </p>
+      <p class="f5 i gray sans-serif"> {{ post.date | date_to_long_string }}</p>
+      <span class="sans-serif f4">
+        {{ post.content }}
+      </span>
+    {% endfor %}
+
+
 
   <ul>
     {% for post in site.posts %}
+      <li>
         <a class ="link b black dim" href="{{ post.url }}">
           {{ post.title }}
         </a>
         - <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+      </li>
     {% endfor %}
   </ul>
