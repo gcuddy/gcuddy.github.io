@@ -24,6 +24,8 @@ github_username: gcuddy
 
 future: false
 
+paginate: 5
+
 collections:
   books:
     output: true
