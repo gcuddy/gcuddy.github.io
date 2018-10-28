@@ -3,6 +3,9 @@ layout: default
 permalink: /blog
 title: "BLOG"
 ---
+
+<p>My daily blog on theatre, art, and life.</p>
+
     {% for post in site.posts limit:1 %}
     <p class="f1 sans-serif">
       <a href="{{ post.url }}">{{ post.title }}</a>
@@ -13,7 +16,7 @@ title: "BLOG"
       </span>
     {% endfor %}
 
-    <h1 class="f3 lh-title sans-serif">Daily Essays:</h1>
+    <h1 class="f3 lh-title sans-serif">Previous Essays:</h1>
     <p class="f5 i">You can also find me on <a class="link black b dim" target="_blank" href="http://medium.com/@guscuddy">Medium</a>.
   <ul>
     {% for post in site.posts %}
