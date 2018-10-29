@@ -4,17 +4,20 @@ permalink: /blog
 title: "BLOG"
 ---
 
-<p>My daily blog on theatre, art, and life.</p>
+<p class="bb pb3 lh-solid">I write every day about theatre, art, and life.</p>
 
+<div class="bb pb3 mb3">
     {% for post in site.posts limit:1 %}
-    <p class="f1 sans-serif">
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      </p>
-      <p class="f5 i gray sans-serif"> {{ post.date | date_to_long_string }}</p>
-      <span class="sans-serif f4">
+    <h1 class="f1 sans-serif lh-title">
+      <a class="link" href="{{ post.url }}">{{ post.title }}</a>
+    </h1>
+      <p class="f5 i gray serif lh-solid"> {{ post.date | date_to_long_string }}</p>
+      <span class="serif f4">
         {{ post.content }}
       </span>
     {% endfor %}
+
+    </div>
 
     <h1 class="f3 lh-title sans-serif">Previous Essays:</h1>
     <p class="f5 i">You can also find me on <a class="link black b dim" target="_blank" href="http://medium.com/@guscuddy">Medium</a>.
@@ -24,7 +27,7 @@ title: "BLOG"
         <a class ="link b black dim" href="{{ post.url }}">
           {{ post.title }}
         </a>
-        - <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+        - <time class="serif" datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
       </li>
     {% endfor %}
   </ul>

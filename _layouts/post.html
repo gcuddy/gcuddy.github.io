@@ -5,8 +5,8 @@
     <div class="center">
     <h1 class="f5 lh-title tc"><a href="/" class="link dark-gray dim">Gus Cuddy</a> | <a href="/blog" class="link dark-gray dim">Essays:</a></h1>
     <h1 class="f1 lh-title tc">{{ page.title }}</h1>
-    <h1 class="f5 i gray sans-serif tc"> {{ page.date | date: "%Y-%m-%d" }}</h1>
-       <div class="center near-black measure-wide lh-copy athelas f3">
+    <h1 class="f5 i gray serif tc"> {{ page.date | date_to_long_string }}</h1>
+       <div class="center near-black measure-wide lh-copy serif f3">
 
        {{ content }}
 

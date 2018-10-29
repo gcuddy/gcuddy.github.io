@@ -12,7 +12,9 @@ images:
     link: /images/cuddy_headshot3.jpg
 ---
 
-### I'm Gus. I'm an actor of Armeninan, Lebanese and Irish descent.
+## Acting
+
+I'm **Gus**. I'm an actor of **Armeninan**, **Lebanese** and **Irish** descent.
 
 <article class="cf">
   <div class="fl w-100 w-50-ns">
@@ -31,9 +33,6 @@ Ann Kelly
 ivyrockmanagement@gmail.com
 
 Find me on [Actor's Access](http://resumes.actorsaccess.com/guscuddy), [Backstage](http://backstage.com/u/guscuddy),  [Twitter](http://twitter.com/guscuddy), and [Instagram](http://instagram.com/guscuddy). Or [email me](mailto:gus.cuddy@gmail.com) personally.
-
-
-## Other Headshots
 
   <div class="cf">
     <div class="fl w-100 w-third-ns ph1-ns">

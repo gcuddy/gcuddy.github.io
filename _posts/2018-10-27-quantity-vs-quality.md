@@ -1,11 +1,11 @@
---- 
+---
 layout: post
 title: "Quantity vs Quality"
 ---
 
 
 > I will take care of the quantity. The Great Creator will take care of the quality.
-> - The Artist's Way
+> --- The Artist's Way
 
 I'm starting a daily blog. Meaning every day, I will post something.
 
