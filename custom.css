@@ -16,3 +16,8 @@ h2 {
 blockquote {
   font-style: italic;
 }
+
+img + em {
+  font-size: .875rem;
+  text-align: center;
+}

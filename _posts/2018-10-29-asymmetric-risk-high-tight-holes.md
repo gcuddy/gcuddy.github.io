@@ -16,6 +16,7 @@ Well, no. And pretty much anyone can see why: the downside of losing is *far* gr
 Asymmetric risk can go both ways. What you want to look for is opportunities that are the inverse: their downside is limited, but their upside is huge. These can also be referred to as "Positive Black Swans", as Taleb shows in his book [Antifragile](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680):
 
 ![Positive Black Swans](/images/positive_black_swan.png)
+*From Taleb's Antifragile*
 
 In theatre, for example, if you can find a way to reliably produce shows that generally break even or even lose some money, but every once in a while you produce a *Hamilton*, you have cracked the code. You are limiting your downside (you have to make sure you're not producing a show that has huge, unlimited downside - a chance to ruin you) and keeping the unlimited upside (it won't happen very often, but when it does, it more than pays off).
 
