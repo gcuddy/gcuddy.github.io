@@ -27,7 +27,7 @@ Marketing --- or developing your career/energy --- is certainly important. You s
 
 But you can't spend all your time doing that. You shouldn't spend *most* of your time doing that.
 
-Instead, we need to focus on getting good. Which means developing your art. Working on exciting creative projects. Reading and writing and going to art museums and taking in things and seeing theatre and watching old films and getting lost in discographies and taking long walks under the morning sun and evening stars. Performing and practicing and self-producing your own weird experiments. In the beginning, focusing on [quantity, and letting the quality develop](({{ site.baseurl }}{% post_url 2018-10-27-quantity-vs-quality %})).
+Instead, we need to focus on getting good. Which means developing your art. Working on exciting creative projects. Reading and writing and going to art museums and taking in things and seeing theatre and watching old films and getting lost in discographies and taking long walks under the morning sun and evening stars. Performing and practicing and self-producing your own weird experiments. In the beginning, focusing on [quantity, and letting the quality develop]({{ site.baseurl }}{% post_url 2018-10-27-quantity-vs-quality %}).
 
 Because the truth is that most people focus on their career. They stop getting good when they leave college.
 
