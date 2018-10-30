@@ -8,7 +8,7 @@ title: "BLOG"
 
 <div class="bb pb3 mb3">
     {% for post in site.posts limit:1 %}
-    <h1 class="f1 sans-serif lh-title">
+    <h1 class="f2 sans-serif lh-title">
       <a class="link" href="{{ post.url }}">{{ post.title }}</a>
     </h1>
       <p class="f5 i gray serif lh-solid"> {{ post.date | date_to_long_string }}</p>

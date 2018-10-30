@@ -18,6 +18,7 @@ blockquote {
 }
 
 img + em {
-  font-size: .875rem;
+  font-size: .7rem;
+  display: block;
   text-align: center;
 }
