@@ -2,7 +2,6 @@
 layout: post
 title: "Procrastination"
 ---
-
 Procrastination gets a bad rap.
 
 In an age of hyper-optimization and productivity apps and tweaks and hacks, we demonize procrastination. It's the devil! Rise and grind! Do do do! Procrastination, after all, has an inverse correlation with productivity, which is the golden ideal of capitalism.
@@ -38,6 +37,6 @@ And it goes the other way: if you're writing or creating something and you're bo
 
 But you need to ask yourself: *Am I not doing this because I'm afraid?*
 
-Because sometimes we will trick ourselves into not doing something, but really we're just afraid to do it. (I can usually feel it in my heart. Journaling helps with this.) And I would argue that that type of procrastination is something you really need to be on the lookout for -- it is corosive, and defers dreams.
+Because sometimes we will trick ourselves into not doing something, but really we're just afraid to do it. (I can usually feel it in my heart. Journaling helps with this.) And I would argue that that type of procrastination is something you really need to be on the lookout for -- it is corrosive, and defers dreams.
 
 But don't demonize or beat yourself up over procrastination, especially if is the good kind. Who knows what great things might come out of it.
