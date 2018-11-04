@@ -23,6 +23,10 @@ Think about all the good things in the world. And think about all the terrible o
 
 And the people and the birds and the trees and everything.
 
-Wonder.
+....
+
+...
+
+..
 
 And then, after you've taken some time away, re-enter the matrix. (And when you do, don't forget to [vote](https://www.vote.org).)
