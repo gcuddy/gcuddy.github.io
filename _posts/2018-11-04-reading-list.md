@@ -5,7 +5,7 @@ title: "My reading list"
 
 I've put together a list of some of my favorite (mostly non-fiction) books, books that have meant a great deal to me or that I have learned from. It's a work in progress. I'd like to keep updating this list as my own personal Reading List -- as [Ryan Holiday puts it, "Books to Base Your Life On"](https://ryanholiday.net/reading-list/). Note that I enjoy all these books, but I don't agree with everything inside them always.
 
-# Creativity
+## Creativity
 
 - *[The Artist's Way](https://amzn.to/2OdPlPr)* by Julia Cameron
 - [*Catching the Big Fish*](https://amzn.to/2RseI1W) by David Lynch
@@ -23,7 +23,7 @@ I've put together a list of some of my favorite (mostly non-fiction) books, book
 - *[Making Movies](https://amzn.to/2DfG4Fn)* by Sidney Lumet
 - [*Letters to a Young Artist*](https://amzn.to/2DfYcPp) by Anna Deavere Smith
 
-# Theatre
+## Theatre
 
 These are theory books, not plays.
 
@@ -44,7 +44,7 @@ These are theory books, not plays.
 - Simon Stone Journal
 - Acting books: *Audition for Your Career*, *How to Stop Acting*, *The Intent to Live*, Stanislavski
 
-# Life/General
+## Life/General
 
 - *Tiny Beautiful Things* by Cheryl Strayed
 - Seneca
@@ -70,7 +70,7 @@ These are theory books, not plays.
 - *Zero to One* by Peter Thiel
 - *Thinking, Fast and Slow*
 
-# Spirituality
+## Spirituality
 
 - *The Upanishads* and *The Bhagavad Gita*
 - *Tao te Ching*
@@ -84,7 +84,7 @@ These are theory books, not plays.
 - *The Three Pillars of Zen*
 - *Comfortable with Uncertainty* by Pema Chodron
 
-# Business
+## Business
 
 - *Anything You Want*
 - *Rework* and *It Doesn't Have to be Crazy at Work*
@@ -92,7 +92,7 @@ These are theory books, not plays.
 - *Zero to One* by Peter Thiel
 - *Purple Cow* by Seth Godin
 
-# Fiction
+## Fiction
 
 I'm trying to read more fiction for sure. There is a big gap here.
 
