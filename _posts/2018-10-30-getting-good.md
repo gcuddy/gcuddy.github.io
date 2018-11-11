@@ -33,7 +33,7 @@ Because the truth is that most people focus on their career. They stop getting g
 
 And this means that not many people are actually good.
 
-So the secret is that, if you get really good, you will stand out. People will take notice. (That old Steve Martin line has truth in it: "Be so good they can't ignore you.")
+So the secret is that, if you get really good, you will stand out. People will take notice. And this is the best form of marketing. (That old Steve Martin line has truth in it: "Be so good they can't ignore you.")
 
 For example, there aren't many truly original theatre directors out there right now, especially in the United States. Many young directors focus on their career, and forget about their art. If you can become really, really good --- and network the appropriate amount --- the opportunities will come.
 

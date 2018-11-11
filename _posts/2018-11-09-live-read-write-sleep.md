@@ -12,7 +12,7 @@ I think this is really good advice for creating work, and a good reminder to get
 
 Then, you should be *reading*: reading even more than you write.
 
-[Annie Baker echoes this advice](https://www.interviewmagazine.com/culture/annie-baker), that the living -- in all its ups and downs, shittiness and realness -- is so good for your art:
+[Annie Baker echoes this advice](https://www.interviewmagazine.com/culture/annie-baker), that the living -- in all its ups and downs, [wasted days]({{ site.baseurl }}{% post_url 2017-12-21-all-those-wasted-days %}), shittiness and realness -- is so good for your art:
 
 > That’s something I tell my students: This period is so useful. Being sad and going out on terrible dates and having horrible breakups and then having a shitty job and then quitting the shitty job and then wondering if you shouldn’t have quit the shitty job and then getting a new shitty job that you get fired off of after six weeks, it’s all so good for your writing. I remember a few years ago was when I was just writing a play and not doing anything else in my life, and I wasn’t cheating on anything with playwriting, and suddenly I was like, “I don’t know if I can do this. I think maybe I have to be cheating on the thing I’m supposed to be doing with playwriting.”
 
