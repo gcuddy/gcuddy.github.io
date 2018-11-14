@@ -3,7 +3,7 @@ layout: post
 title: "Category of one"
 ---
 
-If you're interested in writing a screenplay, you may have come across the slew of books that attempt to teach you how. (Like *Save the Cat* and its many hydra heads it spews out.) Most of these books propose a sort of formula that, actually, is ancient lore and embedded into our psyches, probably by some Jungian madness. *Save the Cat* even offers the Ten Movie Genres, that every screenplay must fit into. The formula and genre is followed by every great story, and every story ever can be mapped out with the formula.[^1]
+If you're interested in writing a screenplay, you may have come across the slew of books that attempt to teach you how. (Like *Save the Cat* and its many hydra heads it spews out.) Most of these books propose a sort of formula that, actually, is ancient lore and embedded into our psyches, probably by some Jungian madness, don't you see. *Save the Cat* even offers the Ten Movie Genres, that every screenplay must fit into. The formula and genre is followed by every great story, and every story ever can be mapped out with the formula.[^1]
 
 But the amount of truly great, memorable screenplays that have spawned out of reading these books is...how many? I'm not sure that data is readily available, but I'm willing to guess the number is relatively close to zero.
 
