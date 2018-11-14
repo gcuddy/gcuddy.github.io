@@ -7,7 +7,7 @@ title: "On textual fidelity"
 *[Peacham Drawing](https://en.wikipedia.org/wiki/Peacham_drawing)*
 
 
-The original production of Ibsen's *A Doll House* caused quite a controversy. People were shocked by its empowering ending. Reports of riots ensued.
+The original production of Ibsen's *A Doll House* caused quite a controversy. People were shocked by its empowering ending. Near-riots ensued.
 
 But if you were, in 2018, to literally replicate this production (for argument's sake in NYC, but really anywhere), it would be a complete disaster.
 
