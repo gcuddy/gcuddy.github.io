@@ -11,9 +11,9 @@ The original production of Ibsen's *A Doll House* caused quite a controversy. Pe
 
 But if you were, in 2018, to literally replicate this production (for argument's sake in NYC, but really anywhere), it would be a complete disaster.
 
-Many conservative thinkers think they are being more faithful to Ibsen by trying to be completely true to the literal letter of the play, including doing whatever it takes to get to "how it was" when it was it was first done. These productions involve period dress, stilted acting and accents, and a general feeling of Deadness. But while these productions might be staying true to the letter, they are completely vandalizing the spirit of Ibsen.
+Many conservative thinkers think they are being more faithful to Ibsen by trying to be completely true to the literal letter of the play, including doing whatever it takes to get to "how it was" when it was it was first done. These productions involve period dress, stilted acting and accents, and a general feeling of Deadness. But while these productions might be staying true to the letter, they are completely vandalizing the spirit.
 
-The spirit of the original was controversy and shock, a feeling of disquiet and uncertainty. (This is [why Ostermeier ended his with a shotgun](https://www.nytimes.com/2004/11/11/theater/reviews/a-nora-who-goes-beyond-closing-her-prisons-door.html).) If you put up a production that bores us to tears, you simply don't understand the play.
+The spirit of the original *Doll's House* involved controversy and shock, a feeling of disquiet and uncertainty. (This is [why Ostermeier ended his with a shotgun](https://www.nytimes.com/2004/11/11/theater/reviews/a-nora-who-goes-beyond-closing-her-prisons-door.html).) If you put up a production that bores us to tears, you simply don't understand the play.
 
 This, of course, isn't even to mention that every production of Ibsen we do in English is, in some way, an adaptation. It is shocking to me how much fidelity some theatre artists have to a stodgy translation of Ibsen or Chekhov from the early 20th century. These are the worst of the worst, academic translations that maybe worked then but ring completely false to our ears now. We need to find [what the original electricity was, and try to convert it for today](http://www.open.ac.uk/arts/research/pvcrs/2015/icke):
 
