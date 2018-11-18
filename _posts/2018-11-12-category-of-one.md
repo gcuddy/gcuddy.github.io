@@ -3,7 +3,7 @@ layout: post
 title: "Category of one"
 ---
 
-If you're interested in writing a screenplay, you may have come across the slew of books that attempt to teach you how. (Like *Save the Cat* and its many hydra heads it spews out.) Most of these books propose a sort of formula that, actually, is ancient lore and embedded into our psyches, probably by some Jungian madness. *Save the Cat* even offers the Ten Movie Genres, that every screenplay must fit into. The formula and genre is followed by every great story, and every story ever can be mapped out with the formula.[^1]
+If you're interested in writing a screenplay, you may have come across the slew of books that attempt to teach you how. (Like *Save the Cat* and its many hydra heads it spews out.) Most of these books propose a sort of formula that, actually, is ancient lore and embedded into our psyches, probably by some Jungian madness, don't you see. *Save the Cat* even offers the Ten Movie Genres, that every screenplay must fit into. The formula and genre is followed by every great story, and every story ever can be mapped out with the formula.[^1]
 
 But the amount of truly great, memorable screenplays that have spawned out of reading these books is...how many? I'm not sure that data is readily available, but I'm willing to guess the number is relatively close to zero.
 
@@ -19,4 +19,4 @@ This is a classic ["Law of Marketing"](https://amzn.to/2JVvCDs), but the truth i
 
 Don't follow a formula. Resist easy and lazy "categories". Instead, make your own.
 
-[^1]: It should be no surprise that those who can't write screenplays write books on how to write screenplays. To be fair, there is a massive market for this kind of thing. All you need is a pithy title (i.e. The Nutshell Technique) and a promise (i.e. this is the secret information 99% of writers don't know). But it's important to remember the advice of [Derek Sivers](https://sivers.org), that “if information was the answer, then we’d all be billionaires with perfect abs," and that we should be suspicious of advice from people without [skin in the game](https://amzn.to/2B1vz6v).
+[^1]: If it's not obvious, I'm being sarcastic. It should be no surprise that those who can't write screenplays write books on how to write screenplays. To be fair, there is a massive market for this kind of thing. All you need is a pithy title (i.e. The Nutshell Technique) and a promise (i.e. this is the secret information 99% of writers don't know). But it's important to remember the advice of [Derek Sivers](https://sivers.org), that “if information was the answer, then we’d all be billionaires with perfect abs," and that we should be suspicious of advice from people without [skin in the game](https://amzn.to/2B1vz6v).
