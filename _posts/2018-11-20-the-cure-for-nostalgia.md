@@ -8,10 +8,10 @@ But the funny thing with nostalgia is that it's a one-sided deal. It's sort of l
 
 Nostalgia is pervasive. This morning I was thinking back to when I was in Arizona earlier this year, when I was in Phoenix and lounging by the pool, and when we went to Sedona and the Grand Canyon, and there were stars and sun and chocolates. Things seem, now, so bright and wonderful then.
 
-But memory is violent and confusing. It morphs and wanes, like a sleepy train passing in the night. It's easy to get caught in the prison of the past, the debilitating spiral of psychological time.
+But memory is also violent and confusing. It can morph and wane and fade, like a sleepy train passing in the night. It's easy to get caught in the prison of the past, the debilitating spiral of psychological time.
 
 So, what's the cure for nostalgia? What's the cure when you look back, and everything seems so rosy?
 
-It's kind of obvious, right? **The cure is to fully embrace the present. And to be happy, now.**. To make adventures with people you love, because happiness is the only logical pursuit. **If you want a beautiful life, full of stories and wonder and art and love, you have to go out and do things, so you have things to be nostalgic about. And when you start to feel nostalgic, you go out and create more memories, so that our life is like one cascading waterfall of happiness.**
+It's kind of obvious, right? **The cure is to fully embrace the present and do things that make you happy, now.**. To make adventures with people you love, to create beautiful art, because happiness is the only logical pursuit. **If you want a beautiful life, full of stories and wonder and art and love, you have to go out and do things, so that you actually have things to be nostalgic about. And when you start to feel nostalgic, you go out and create more memories, so that our life is like one cascading waterfall of happiness.**
 
 Instead of feeling nostalgic, let's use that feeling as a trigger to realize that it's time to go pursue adventures with people you love, and do the things that make us happy.
