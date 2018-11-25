@@ -11,7 +11,11 @@ He drops a few goldmines on his creative process:
 
 I've talked [about creating from the unconscious]({{ site.baseurl }}{% post_url 2018-11-07-dont-make-art-in-terms-of-risk %}), but Birbiglia expresses it really nicely here. Get yourself into a trance in the morning, and start putting things down. Before the demons of inhibition and rationality can get to you.
 
-This is what I do and recommend with [morning pages](https://twitter.com/search?q=from%3Abriankoppelman%20morning%20pages&src=typd), which I learned from Brian Koppelman: each morning, wake up and write three long-hand pages, stream-of-consciousness style. Around the 1.5 page mark, you hit often hit a "truth point", where you kind of run out of bullshit to write about and end up getting to some deeper parts of the subconscious.
+Mamet (I know) writes about this in *Three Uses of a Knife*:
+
+> Artists don’t wonder, “What is it good for?” They aren’t driven to “create art,” or to “help people,” or to “make money.” They are driven to lessen the burden of the unbearable disparity between their conscious and unconscious minds, and so to achieve peace.
+
+This "trance writing" is what I do and recommend with [morning pages](https://twitter.com/search?q=from%3Abriankoppelman%20morning%20pages&src=typd), which I learned from Brian Koppelman: each morning, wake up and write three long-hand pages, stream-of-consciousness style. Around the 1.5 page mark, you often hit a "truth point", where you kind of run out of bullshit to write about and end up getting to some deeper parts of the subconscious.
 
 I like that he also mentions acting in a trance, though he doesn't expand on it in the interview. The idea is one I strive for in my acting: to not really think about it too much. Do the work, then let it move through you, bringing yourself and all your experience onto the stage as well. It can be quite an exhilarating trance, and you often know if you aren't in it (usually it's because the demons of rationality have come to your shoulder and let you know that you are on stage acting in front of people, and it is really a ridiculous thing to be doing).
 

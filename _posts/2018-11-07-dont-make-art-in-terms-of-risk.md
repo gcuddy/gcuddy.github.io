@@ -24,10 +24,6 @@ Thus, great art that "takes risks", is actually *accessing the unconscious regul
 
 We could even phrase it as a pithy formula, like: **Great Art = Unconscious + Clarity**.
 
-If I consciously decide, I'M GOING TO MAKE RISKY ART, I will be working from the conscious, and it will be patchwork.
+If I consciously decide "I'm going to make risky art", I will be working from the conscious, and it will be patchwork.
 
 The art you can make is the art only you can make. It's always you. **Make bold art from the unconscious, and strive for clarity and rigor**. The rest is kind of BS.
-
-I feel bad these days quoting Mamet, but he put it really well in *Three Uses of a Knife*:
-
-> Artists don’t wonder, “What is it good for?” They aren’t driven to “create art,” or to “help people,” or to “make money.” They are driven to lessen the burden of the unbearable disparity between their conscious and unconscious minds, and so to achieve peace.
