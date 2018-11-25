@@ -19,4 +19,4 @@ There's one more thing in the interview I really like a lot:
 
 > Don't waste your time on marketing, just try to get better. ... It's not about being good; it’s about being great. Because what I find, the older I get, is that a lot of people are good and a lot of people are smart, and a lot of people are clever. But not a lot of people give you their soul when they perform.
 
-This is the same idea I discussed in ["Getting good"]({{ site.baseurl }}{% post_url 2018-10-30-getting-good.md %}). Worry less about getting seen, focus on learning and doing and getting great at what you do. Acting and writing in a trance is a good start.
+This is the same idea I discussed in ["Getting good"]({{ site.baseurl }}{% post_url 2018-10-30-getting-good %}). Worry less about getting seen, focus on learning and doing and getting great at what you do. Acting and writing in a trance is a good start.
