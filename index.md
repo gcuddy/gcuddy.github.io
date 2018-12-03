@@ -14,7 +14,7 @@ images:
 
 ## Acting
 
-I'm **Gus**. I'm an actor and theatre artist from **Rochester, NY** and am currently based in **Brooklyn.** I'm of **Egyptian**, **Armeninan**, **Lebanese** and **Irish** descent.
+I'm **Gus**. I'm an actor and theatre artist from **Rochester, NY** and am currently based in **Brooklyn.** I'm of **Egyptian**, **Armenian**, **Lebanese** and **Irish** descent.
 
 <article class="cf">
   <div class="fl w-100 w-50-ns">
