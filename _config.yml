@@ -33,6 +33,8 @@ collections:
     output: true
   plays:
     output: true
+  tweetstorms:
+    output: true
 
 # Build settings
 markdown: kramdown

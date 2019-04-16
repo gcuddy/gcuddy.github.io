@@ -12,8 +12,6 @@ images:
     link: /images/cuddy_headshot3.jpg
 ---
 
-## Acting
-
 I'm **Gus**. I'm an actor and theatre artist from **Rochester, NY** and am currently based in **Brooklyn.** I'm of **Egyptian**, **Armenian**, **Lebanese** and **Irish** descent.
 
 <article class="cf">
@@ -51,7 +49,3 @@ Find me on [Actor's Access](http://resumes.actorsaccess.com/guscuddy), [Backstag
     </a>
     </div>
   </div>
-
-## More
-
-I also [write](/blog) and [produce](https://portertheater.com).
