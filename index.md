@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Gus Cuddy - Actor, writer, director
 images:
   - image_path: /images/thumb/cuddy_headshot1.jpg
     title: Headshot 1
@@ -12,7 +13,9 @@ images:
     link: /images/cuddy_headshot3.jpg
 ---
 
-I'm **Gus**. I'm an actor and theatre artist from **Rochester, NY** and am currently based in **Brooklyn.** I'm of **Egyptian**, **Armenian**, **Lebanese** and **Irish** descent.
+# Acting
+
+I'm **Gus**. I'm an actor and theatre artist from **Rochester, NY** and am currently based in **Brooklyn.** I'm of **Armenian**, **Lebanese**, **Egyptian** and **Irish** descent.
 
 <article class="cf">
   <div class="fl w-100 w-50-ns">
@@ -49,3 +52,13 @@ Find me on [Actor's Access](http://resumes.actorsaccess.com/guscuddy), [Backstag
     </a>
     </div>
   </div>
+
+## Some Favorites I've Been In:
+
+<ul>
+{% for show in site.shows %}
+  <li>
+  <a href="{{ show.url }}">{{ show.title }}</a>
+  </li>
+{% endfor %}
+</ul>

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: show
 permalink: /shows/corpsewasher
 title: The Corpse Washer
 playwright: Naomi Wallace and Ismail Khalidi

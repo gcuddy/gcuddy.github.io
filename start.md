@@ -4,6 +4,8 @@ permalink: /start
 title: "Start Here"
 ---
 
+# <a name="start"></a>Start Here
+
 Hey!
 
 Thanks for stopping by my home on the internet. My personal website acts as my resume, and a collection of my favorite things: theatre, art, learning, and culture. Take a look around.
@@ -16,7 +18,7 @@ I'm also a [writer](/blog), and send out <a href="https://guscuddy.substack.com/
 
 I'm getting into directing.
 
-I co-run <a href="https://portertheater.com/" target="_blank">Porter Theater</a>, a theatre company.
+I take [extensive notes](/notes/#notes) on the books and media I consume. I love learning.
 
 I grew up in Rochester, NY.
 
@@ -24,15 +26,15 @@ I was born in Davis, CA.
 
 I currently reside in Brooklyn, NY.
 
-I'm half middle-eastern, half white. I'm of Armenian, Lebanese, Egyptian and Irish descent. But identity is complicated.
+I'm half middle-eastern. I'm of Armenian, Lebanese, Egyptian and Irish descent. But identity is complicated.
 
 ----
 
 ### Favorite Productions I've Acted in:
 
-* The Corpse Washer
-* The Skin of Our Teeth
-* We Are Proud to Present a Presentation About the Herero of Namibia, Formerly Known as Southwest Africa, From the German Sudwestafrika, Between the Years 1884–1915
+* [The Corpse Washer](/shows/corpsewasher)
+* [The Skin of Our Teeth](/shows/skin)
+* [We Are Proud to Present a Presentation About the Herero of Namibia, Formerly Known as Southwest Africa, From the German Sudwestafrika, Between the Years 1884–1915](/shows/waptp)
 
 ### Recommended Blog Posts:
 
