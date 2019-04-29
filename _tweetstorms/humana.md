@@ -3,7 +3,7 @@ layout: tweetstorm
 title: "Humana 2019 Takeaways"
 day: 4/16
 topic: Theatre
-url: https://twitter.com/guscuddy/status/1116744886340870144
+tweet: https://twitter.com/guscuddy/status/1116744886340870144
 permalink: /tweetstorms/humana/
 ---
 

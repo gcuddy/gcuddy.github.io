@@ -1,16 +1,27 @@
 <!doctype html>
 <html lang="en">
-{% include head.html %}
+{% include head_book.html %}
 {% include header.html %}
 
-  <body class="avenir ph5-ns ph3 near-black bg-white">
-    <h1 class="f5"><a href="/book" class="link dark-gray dim">Book Notes:</a></h1>
-    <h1 class="f2"><a class="black link b dim" target="_blank" href="{{ page.amazon }}">{{ page.title }}</a></h1>
-    <h1 class="f4">by {{ page.author }}</h1>
-    <h1 class="f6 i lh-copy gray">Date read: {{ page.date | date: "%Y-%m-%d" }}</h1>
-       <div class="dark-gray measure-wide lh-copy f5">
+
+  <body class="sans-serif ph5-ns ph3 near-black bg-white center">
+
+       <div class="dark-gray measure-wide lh-copy f4 center">
+         <div id="heading">
+         <a href="{{ page.amazon }}" style="float: left; padding-right: 1em;">
+           <img src="{{ page.cover }}" alt="{{ page.title }}" style="max-height: 100%;">
+         </a>
+         <h1 class="f2">{{ page.title }} by {{ page.author }}</h1>
+         <p class="f5 lh-copy"><b>Rating:</b> {{ page.rating }}</p>
+         <p class="f5 lh-copy"><b>Date read:</b> {{ page.date | date: "%Y-%m-%d" }}</p>
+         <p class="f5 lh-copy">See my properly formatted and summarized  <b><a href="{{ page.evernote }}" target="_blank">Evernote note on this book</a></b>.</p>
+         <p class="f5 lh-copy">Get on <b><a href="{{ page.amazon }}" target="_blank">Amazon</a></b>.</p>
+         <p class="f5 lh-copy">See <b><a href="/notes/">my full collection of notes</a></b> for more.</p>
+
+         </div>
+<hr>
        <p>{{ page.desc | markdownify }}</p>
-       <h1 class="f4">notes</h4>
+       <h1 class="f4">my notes</h4>
        {{ content }}
        </div>
   </body>
