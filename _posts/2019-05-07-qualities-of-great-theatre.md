@@ -35,10 +35,9 @@ So theatre needs to raise the bar by creating truly compelling live experiences.
 
 With the ubiquity of the internet, live experiences can differentiate themselves. Theatre is one such experience: immersive, lucid, and a jolt of light and energy.
 
-Great theatre can often confront us and make us uncomfortable. But the discomfort we experience when we go to the theatre is different than the discomfort we experience when going to the movies. There is something to it that cannot be explained. Wesley Morris, a Pulitzer prize winning critic who wrote primarily about film, [wrote recently about theatre](https://www.nytimes.com/2019/04/25/theater/african-american-playwrights.html):
+Great theatre can often confront us and make us uncomfortable. But the discomfort we experience when we go to the theatre is different than the discomfort we experience when going to the movies. There is something to it that cannot be explained, and it's to do with its event-ritual nature. Wesley Morris, a Pulitzer prize winning critic who writes primarily about film, has started [recently writing about theatre](https://www.nytimes.com/2019/04/25/theater/african-american-playwrights.html):
 
 > But occasionally, a play ends and nobody really knows what to do, because it just took an audience to outer space, to the center of the earth, to this new electric zone that knows what’s wrong with this country and isn’t afraid to personify it, laugh at it, behold it. Even though the work may take place at hospitals or in the presence of a shrink, it doesn’t care about comfort. It’s haywire, rude, blunt, poetic, self-reflective, sexually unpredictable, emotionally catastrophic, exhaustively acted, intelligent, searching and unafraid.
-> Now they’re all part of a standard to which I’m holding all kinds of other artists, all kinds of other products. Is this thing I’m watching, reading, listening to going down deep enough, far out there enough, inward enough? Is it doing the most it can to provoke, unnerve and dazzle me? Is it awake to what else this country is — and has always been?
 
 Because theatre exists in one place at one time, it acts as an old fashioned ritual, with real live people. Why do people go to Coachella, Bonnaroo, and Burning Man every year? Because they hunger after these singular experiences. Watching them on your computer is not the same, and almost everyone recognizes this. We are after something more. They are rituals in the way theatre is ritual, where we gather together as human beings in a collective experience. They make us feel alive and human. They have always been a part of us. And they will never be replaced.
 
@@ -78,9 +77,9 @@ A corollary: I believe great theatre exists for more of a reason than just polit
 
 Why should people go to the theater at all anymore? With so many other means of narratives, what's so important about this story being a play?
 
-There are many new plays that simply don't answer this question. They seem to have been designed to be bad TV, instead. They take the hacky parts of television and combine them with the stage, which obviously leads to dreadful theatre. Many of these plays continually gets produced because many of these are "Issue Plays", i.e. plays that try to tackle a hot-topic issue (like race) and thus get programmed by clueless old white men who want to feel woke. (Hint: they are usually written by white people who want to be writing for TV.)
+There are many new plays that simply don't answer this question. They seem to have been designed to be bad TV, instead. They take the hacky parts of television and combine them with the stage, which obviously leads to dreadful theatre. Many of these plays continually gets produced because many of these are "Issue Plays", i.e. plays that try to tackle a hot-topic issue (like race) and thus get programmed by clueless old white men who want to feel woke. (They are usually written by white people who want to be writing for TV.)
 
-Theatre should not be something that it is not. If it tries to be television, it ends up being a pale imitation, existing in a netherworld of plays that aren't quite sure what they are. In the words of Sara Holdren, these shows "neither take joy in the possibilities of their own form nor respect its demands."
+Theatre should not be something that it is not. If it tries to be television, it ends up being a pale imitation, existing in a netherworld of plays that aren't quite sure what they are. In the words of theatremaker and critic Sara Holdren, these shows "neither take joy in the possibilities of their own form nor respect its demands."
 
 ## Great theatre reaches for the transcendent.
 
@@ -116,7 +115,9 @@ Theatre is the only art form that appears and disappears in the moment. So the a
 
 When actors are given complete ownership, you get performances of raw intensity.
 
-This, by the way, isn't to say actors can direct themselves, or that divas are permitted—only that great theatre takes its actors seriously, and allows them to fly.
+There should be no writer -> director -> actor hierarchy.  
+
+This isn't to say actors can direct themselves, or that divas are permitted—only that great theatre takes its actors seriously, puts them on equal footing with the writer and director, and allows them to fly.
 
 ## Great theatre is original.
 
@@ -130,5 +131,5 @@ Great theatre is not easily summarized. A great, original show is more than just
 
 ---
 
-[^1]: I'm not discounting Brecht, by the way. Some of my favorite productions are able to blend Brecht's intellectual distance with the raw nakedness of emotion in theatre.
+[^1]: This isn't to discount Brecht. Some of my favorite productions are able to blend Brecht's intellectual distance with the raw nakedness of emotion in theatre.
 [^2]: Understanding on a basic, intuitive level, at least. Audiences don't need to understand every little thing, in a literal sense.
