@@ -15,10 +15,11 @@ images:
 
 <h1 class="f3-ns f2">Gus Cuddy</h1>
 
+<div class="tc">
 <a href="/images/cuddy_headshot3.jpg">
   <img src="/images/thumb/cuddy_headshot3.jpg" class ="w-50" alt="Headshot"/>
 </a>
-
+</div>
 
 Hey, I'm **Gus**.  I'm an [actor](/resume), writer, and director.
 
@@ -35,7 +36,7 @@ I send out a weekly newsletter on Tuesdays called ["the curtain"](http://guscudd
 <form name="submit-to-google-sheet" class="mw7">
   <div class="cf">
   <input class="f6 f5-l input-reset bn fl black bg-white pa3 lh-solid w-100 w-75-m w-80-l br2-ns br--left-ns" name="email" type="email" placeholder="Email" required>
-  <button type="submit" class="f6 f5-l button-reset fl pv3 tc bn bg-animate bg-black hover-bg-red white pointer w-100 w-25-m w-20-l br2-ns br--right-ns">Subscribe</button>
+  <button type="submit" class="f6 f5-l button-reset fl pv3 tc bn bg-animate bg-black hover-bg-red white pointer w-100 w-25-m w-20-l br2-ns br--right-ns dim">Subscribe</button>
   </div>
 </form>
 
