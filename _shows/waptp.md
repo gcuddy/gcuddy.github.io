@@ -7,6 +7,4 @@ director: Pirronne Yousefzadeh
 location: Fordham University
 ---
 
-## Photos
-
 {% include image-gallery.html folder="/images/a/waptp" %}

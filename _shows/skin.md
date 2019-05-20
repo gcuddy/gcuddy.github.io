@@ -7,6 +7,4 @@ director: Taibi Magar
 location: Fordham University
 ---
 
-## Photos
-
 {% include image-gallery.html folder="/images/a/skin" %}

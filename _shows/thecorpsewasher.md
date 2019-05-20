@@ -7,6 +7,4 @@ director: Mark Brokaw
 location: Actors Theatre of Louisville
 ---
 
-## Photos
-
 {% include image-gallery.html folder="/images/a/corpse" %}
