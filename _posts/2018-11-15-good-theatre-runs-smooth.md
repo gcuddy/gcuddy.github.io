@@ -3,11 +3,11 @@ layout: post
 title: "Good theatre runs smooth"
 ---
 
-I have this theory that you can pretty accurartely judge if a play is going to be good from its first moments. The light go down, maybe some music comes in, and that's the most exciting part: you have us. For a moment you think, "this play might change my life": the excitement of the play starting, another world emerging. It's stuck with me since my childhood as my absolute favorite part of the theatre. Then the lights comes up, and you realize: *Oh. No. This is not going to change my life after all.* I almost always feel let down.
+I have this theory that you can pretty accurately judge if a play is going to be good from its first moments. The lights go down, maybe some music comes in, and that's the most exciting part: you have us. For a moment you think, "this play might change my life": the excitement of the play starting, another world emerging. It's stuck with me since my childhood as my absolute favorite part of the theatre. Then the lights comes up, and you realize: *Oh. No. This is not going to change my life after all.* I almost always feel let down.
 
-It takes a lot for a play to regain that magical feeling. It's rare that a production can lose me in its first moments, and end up being a great experience. (It does happen, though.)
+It takes a lot for a play to regain that magical feeling. It's rare that a production can lose me in its first moments, and end up being a great experience. (It does happen, though!)
 
-So that brings me to this first moment. Now, some directors might devote too much time to getting that first moment right, and then let the rest of the play fall through the cracks. You don't want to have an explosive first moment and then let us down the rest of the time.
+Now, some directors might devote too much time to getting that first moment right, and then let the rest of the play fall through the cracks. You don't want to have an explosive first moment and then let us down the rest of the time.
 
 Instead, you want to hook us, and have the whole thing run smooth.
 
@@ -15,7 +15,7 @@ Daniel Kahneman introduces this idea of System 1 and System 2 thinking in his se
 
 In those first moments of a play, you can't ask us to use System 2. You've lost us already. The beginning should feel smooth, to ease us in. It should be a cascading series of System 1, intuitive brain activity. Think 3+2 equals...(five, your brain can't help fill it in), not 1617.3*313.86 equals...(uh, let me pull out my calculator, hold on -- carry the one...).
 
-Where System 2 does come in, I think, is as the play deepens, and exacavates whatever question it is asking. Great drama often gives us paradoxes, two right answers, which System 1 is not equipped to answer. Instead, System 2 must engage to help us reason through the difficult questions the drama is asking of us.
+Where System 2 does come in, I think, is as the play deepens, and excavates whatever question it is asking. Great drama often gives us paradoxes, two right answers, which System 1 is not equipped to answer. Instead, System 2 must engage to help us reason through the difficult questions the drama is asking of us.
 
 Aesthetically, however, I believe in smooth theatre. Not too smooth -- I don't want it spoon-fed to me, I don't need gross commercialism, I don't want to be condescended to, I'm not looking to "turn my brain off". But I do want to be excited and riveted, and I believe the best way to get there is through System 1. When I start to have to use System 2 to keep engaged in the beginning, it can quickly become Deadly Boring. It's a balancing act---you have to engage System 2 so that the play can deal with deep subject matter, but you need to use the drill of System 1 to drive to the heart of the matter. (And ideally, the heart of the matter offers us deep-seated questions and feelings that our Slow Brain will mull over for days.)
 
