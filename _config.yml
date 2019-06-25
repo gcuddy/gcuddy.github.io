@@ -17,9 +17,11 @@ title: Gus Cuddy
 email: gus.cuddy@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   NYC-based actor and writer.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: guscuddy
+# baseurl: "" # the subpath of your site, e.g. /blog
+url: http://guscuddy.com # the base hostname & protocol for your site, e.g. http://example.com
+twitter:
+  username: guscuddy
+  card: summary
 github_username: gcuddy
 
 future: false
@@ -45,6 +47,8 @@ markdown: kramdown
 # theme: minima
 gems:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock
