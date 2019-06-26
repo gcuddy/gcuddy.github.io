@@ -6,7 +6,6 @@ layout: post
 
 ![foggy forest](/images/posts/foggy-forest.jpg)
 
-
 There are some things in this world that cannot be explained. Deep, dark mysterious things. Things that stem from some ancient unwaking origin, drifting in the netherworld between sleep and somewhere else. Things that exist in the far reaches of the unconscious.
 
 Our brains cannot quite understand these things. Consciousness is not enough. Instead, we repress our un-understandings and fears and traumas deep into the depths of our own [unconscious](https://www.guscuddy.com/2018/11/07/dont-make-art-in-terms-of-risk.html).
