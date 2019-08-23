@@ -1,10 +1,8 @@
 .lh-copy a {
-  opacity: 1;
   color: #000;
 }
 
 .lh-copy a:hover {
-  opacity: .5;
   color: #E7040F;
 }
 
