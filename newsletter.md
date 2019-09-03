@@ -3,7 +3,7 @@ layout: default
 permalink: /newsletter
 ---
 
-I send out a weekly newsletter on Tuesdays called *[The Curtain](http://guscuddy.substack.com)*, and I recommend you subscribe. It's one of the best ways to keep in touch with me. Each week I share a short essay about what I'm thinking about, as well as links and notes from the week on theatre and culture. [Sign up by clicking here](http://guscuddy.substack.com) or entering your email below.
+I send out a weekly newsletter on Tuesdays called *[The Curtain](http://guscuddy.substack.com)*, and I recommend you subscribe. It's one of the best ways to keep in touch with me. Each week I share a short essay about what I'm thinking about, as well as links and notes from the week on theatre and culture. [Sign up by clicking here](http://guscuddy.substack.com) or entering your email below:
 
 <div class="form-container pv2">
 
@@ -14,7 +14,7 @@ I send out a weekly newsletter on Tuesdays called *[The Curtain](http://guscuddy
   </div>
 </form>
 
-<p class="js-success-message is-hidden" style="display: none;">Success!</p>
+<p class="js-success-message is-hidden" style="display: none; color:green;">Success! You will receive your first email this Tuesday.</p>
 <p class="js-error-message is-hidden" style="display: none;">Error!</p>
 
 </div>
@@ -47,5 +47,7 @@ I send out a weekly newsletter on Tuesdays called *[The Curtain](http://guscuddy
   }
 
 </script>
+
+After entering your email above you will receive your first email on Tuesday. You can always read [the full archive here](https://guscuddy.substack.com/archive).
 
 The emails are sent from my personal email and you can reply directly, or unsubscribe anytime.
