@@ -5,12 +5,71 @@
 
   <body class="helvetica ph5-ns ph3 black bg-white">
 
-    <div class="black measure lh-copy f5-ns f4 center">
+    <div class="black measure-wide lh-copy f5-ns f4 center">
     <h1 class="f3-ns f2 lh-title ttu tracked">{{ page.title }}</h1>
-    <h1 class="f5-ns f4 i gray lh-solid"> {{ page.date | date_to_long_string }}</h1>
+    <h1 class="f5-ns f4 i gray lh-solid"> {{ page.date | date_to_long_string }} //
+    {% assign categories = post.categories %}
+    {% assign categories = page.categories %}
+  {% for category in categories %}
+  <a class="link gray" href="{{site.baseurl}}/category/{{category|slugize}}">{{category}}</a>{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+</h1>
+
        <div id="post" class="lh-copy f5-ns f4">
 
        {{ content }}
+
+       </div>
+
+       <div id="footer" class="lh-copy f5-ns f4 bt b--black-40">
+         <b><i>Follow me on <a href="http://twitter.com/guscuddy">Twitter</a> and <a href="http://instagram.com/guscuddy">Instagram</a> for more.</b></i>
+         <div class="form-container mv3 pb3 ba b--black-40 br1 shadow-1">
+           <div class="ph3">
+           <h1 class="f3-ns f2 lh-title ttu tracked tc">Join the Newsletter</h1>
+           <p>I publish a weekly newsletter called <a href="https://guscuddy.substack.com/">"The Curtain"</a>, where I share my recent writing on theatre, culture, and the future, as well as links and learnings from the week.</p>
+
+           <p>Subscribe below to get access:</p>
+
+         <form name="submit-to-google-sheet" class="mw7 br2-ns ba b--black-10">
+           <div class="cf">
+           <input class="f6 f5-l input-reset bn fl black bg-white pa3 lh-solid w-100 w-75-m w-80-l br2-ns br--left-ns" name="email" type="email" placeholder="Email" required>
+           <button type="submit" class="f6 f5-l button-reset fl pv3 tc bn bg-animate bg-black hover-bg-red white pointer w-100 w-25-m w-20-l br2-ns br--right-ns dim">Subscribe</button>
+           </div>
+         </form>
+
+         <p class="js-success-message is-hidden" style="display: none; color:green;">Success! You will receive your first email this Tuesday.</p>
+         <p class="js-error-message is-hidden" style="display: none;">Error!</p>
+       </div>
+         </div>
+
+         <script>
+           const scriptURL = 'https://script.google.com/macros/s/AKfycbztKAnb0jXzNot8bvrAIhzCCTS5A_AuOq-1djh4gYd4i-8s2Ak/exec'
+           const form = document.forms['submit-to-google-sheet']
+           const successMessage = document.querySelector('.js-success-message')
+           const errorMessage = document.querySelector('.js-error-message')
+
+           form.addEventListener('submit', e => {
+             e.preventDefault()
+             fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+               .then(response => showSuccessMessage(response))
+               .catch(error => showErrorMessage(error))
+           })
+
+           function showSuccessMessage (response) {
+             console.log('Success!', response)
+             setTimeout(() => {
+               successMessage.style.display = "block";
+             }, 500)
+           }
+
+           function showErrorMessage (error) {
+             console.error('Error!', error.message)
+             setTimeout(() => {
+               errorMessage.style.display = "block";
+             }, 500)
+           }
+
+         </script>
 
        </div>
      </div>

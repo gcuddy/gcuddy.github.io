@@ -28,7 +28,7 @@ future: false
 
 paginate: 5
 
-permalink: /:year/:month/:day/:title:output_ext
+permalink: /:year/:month/:day/:title/
 
 collections:
   books:

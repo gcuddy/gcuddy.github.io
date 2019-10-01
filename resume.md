@@ -3,7 +3,7 @@ layout: default
 permalink: /resume
 ---
 
-<h1 class="f4 tracked fw4 ttu">Headshots and Resume</h1>
+<h1 class="f3-ns f2 lh-title ttu tracked">Headshots and Resume</h1>
 
 <div class="cf">
   <div class="fl w-100 w-50-ns">

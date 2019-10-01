@@ -15,7 +15,7 @@ images:
 
 Hey, I'm Gus.  I'm an [actor](/resume) in theatre, film and TV.
 
-I'm also a writer and director.
+I [write essays](/blog) and send out a [newsletter](/newsletter) on theatre, culture, and the future. I'm also a director.
 
 I was born in Davis, CA, grew up in Rochester, NY, and currently live in **Brooklyn, NY**. I'm of Armenian, Lebanese, Egyptian and Irish descent. But identity is complicated.
 

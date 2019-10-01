@@ -2,6 +2,7 @@
 title: "Art and the Unconscious"
 description: "Rationality can only get you so far. You can't always take the logical position. Sometimes you have to lay down the burden of consciousness."
 layout: post  
+categories: [Art, Consciousness]
 ---
 
 ![foggy forest](/images/posts/foggy-forest.jpg)

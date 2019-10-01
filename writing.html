@@ -4,11 +4,11 @@ permalink: /blog
 title: "Blog"
 ---
 
-    <h1 class="f4-ns f3 lh-title helvetica">Blog:</h1>
+    <h1 class="f3-ns f2 lh-title ttu tracked">Blog Posts:</h1>
   <ul>
     {% for post in site.posts %}
       <li>
-        <a class ="link b black f5-ns f4" href="{{ post.url }}">
+        <a class ="link b black f4-ns f5" href="{{ post.url }}">
           {{ post.title }}
         </a>
         - <time class="helvetica" datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>

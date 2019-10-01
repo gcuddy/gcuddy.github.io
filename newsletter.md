@@ -3,6 +3,8 @@ layout: default
 permalink: /newsletter
 ---
 
+<h1 class="f3-ns f2 lh-title ttu tracked">Newsletter</h1>
+
 I send out a weekly newsletter on Tuesdays called *[The Curtain](http://guscuddy.substack.com)*, and I recommend you subscribe. It's one of the best ways to keep in touch with me. Each week I share a short essay about what I'm thinking about, as well as links and notes from the week on theatre and culture. [Sign up by clicking here](http://guscuddy.substack.com) or entering your email below:
 
 <div class="form-container pv2">
