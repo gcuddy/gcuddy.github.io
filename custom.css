@@ -12,8 +12,23 @@ h2 {
 }
 
 blockquote {
-  font-style: italic;
+  margin-left: 0;
+  margin-top: 0;
+  padding-left: 2rem;
+  color: rgba(0, 0, 0, .9);
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-width: .25rem;
+  border-color: #408bc9;
 }
+
+blockquote em {
+  font-size: .75rem;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  font-style: normal;
+}
+
 
 img + em {
   font-size: .7rem;
@@ -21,9 +36,6 @@ img + em {
   display: block;
 }
 
-blockquote {
-
-}
 
 table {
     max-width: 64rem;
