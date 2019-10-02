@@ -80,7 +80,7 @@ When I see young people from public schools on a field trip attend the theatre f
 
 But why such etiquette? After all, house lights are a relatively recent invention. And everyone knows that Elizabethan audiences were the most rowdy!
 
-[![ybarra tweet](../images/2019/10/ybarra-tweet.png)](https://twitter.com/saybarra/status/1173564326243917824)
+[![ybarra tweet](/images/2019/10/ybarra-tweet.png)](https://twitter.com/saybarra/status/1173564326243917824)
 
 (To be fair, I actually disagree: I do think [the largest barrier is price](https://www.whatsonstage.com/edinburgh-theatre/news/peter-brook-the-prisoner-international-festival_47341.html), but I also fully support the point Ybarra is making.)
 
