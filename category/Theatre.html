@@ -1,0 +1,21 @@
+---
+layout: default
+permalink: /category/Theatre
+---
+
+<div id="archives">
+  <h1 class="f3-ns f2 lh-title ttu tracked">Category: Theatre</h1>
+
+  <ul>
+    {% for post in site.categories.Theatre %}
+      {% if post.url %}
+      <li>
+        <a class ="link b black f5-ns f4" href="{{ post.url }}">
+          {{ post.title }}
+        </a>
+        - <time class="helvetica" datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
