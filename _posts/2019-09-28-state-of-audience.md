@@ -68,7 +68,7 @@ The oppression of whiteness infects every area of theatre, at every level. It go
 
 This is why it's so god damn exciting that Jeremy O. Harris has announced that *Slave Play*, upon the challenge of musician Kelela (!), is doing [a performance dedicated to an all black audience](https://rpm-email-assets.s3.amazonaws.com/SP/SP_012_E_BLACK_OUT_EMAIL/SP_012_E_BLACK_OUT_EMAIL.html). By inverting the balance, the gaze of the audience---and what the show amounts to---takes on a different, much deeper meaning:
 
-[![joh tweet2](/images/2019/10/joh-tweet2.png)](http://twitter.com/jeremyoharris/status/1173704383667810305)
+[![joh tweet2](/images/2019/10/joh-tweet2.png)](https://twitter.com/jeremyoharris/status/1173704383667810305)
 
 #### Theatre Etiquette
 

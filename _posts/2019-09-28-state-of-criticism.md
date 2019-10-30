@@ -12,7 +12,7 @@ categories:
 
 {% include series.html %}
 
-Recently, New York Magazine theatre critic Sara Holdren [announced](http://twitter.com/swholdren/status/1173684319048613890) she was stepping down from her position to pursue her main interest: directing theatre. In her short two year stint Holdren was a force, re-invigorating theatre criticism for many theatre artists in New York.
+Recently, New York Magazine theatre critic Sara Holdren [announced](https://twitter.com/swholdren/status/1173684319048613890) she was stepping down from her position to pursue her main interest: directing theatre. In her short two year stint Holdren was a force, re-invigorating theatre criticism for many theatre artists in New York.
 
 While it's sad to see her go, she began to open the door for me to what truly great theatre criticism can be: not only putting work in its proper context, but making the reader a better, more rigorous artist.
 
@@ -90,7 +90,7 @@ Often these white critics are not only not practitioners of the form, but are a 
 
 There are, however, efforts out there to remedy the lack of good theatre criticism. [3Views on Theater](https://www.kickstarter.com/projects/janejung/3views-on-theater) is a new project from The Lillys, a pretty A-list team of theatre artists. The site has yet to launch, so we'll see how much it can do, but it has promise.
 
-Critic Jose Solís has been fighting the grassroots fight to diversify criticism and audiences for some time now. He regularly [tweets out](https://twitter.com/josesolismayen) that he has an extra seat for a show he's seeing, and wants a POC to have it for free. Even more than that, he has recently started a [new theatre website for critics of color](https://scenesincolor.com/about/). And his efforts have led to [doubling the amount of voting members of the Drama Desk](http://twitter.com/josesolismayen/status/1155537805289897992). In a culture that still privileges white male voices as the most authoritative, these efforts do give hope:
+Critic Jose Solís has been fighting the grassroots fight to diversify criticism and audiences for some time now. He regularly [tweets out](https://twitter.com/josesolismayen) that he has an extra seat for a show he's seeing, and wants a POC to have it for free. Even more than that, he has recently started a [new theatre website for critics of color](https://scenesincolor.com/about/). And his efforts have led to [doubling the amount of voting members of the Drama Desk](https://twitter.com/josesolismayen/status/1155537805289897992). In a culture that still privileges white male voices as the most authoritative, these efforts do give hope:
 
 [![Jose Solis tweet](/images/2019/10/jose-solis-tweet.png)][adf2095c]
 
