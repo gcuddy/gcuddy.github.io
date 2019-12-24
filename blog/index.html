@@ -1,0 +1,55 @@
+---
+layout: blog
+title: "Blog"
+---
+
+<h3 class="f5 red fw4 dib ttu tracked">Recent Writing:</h3>
+<!-- post list -->
+{% for post in paginator.posts %}
+<article id="article"><a href="{{post.url | prepend: site.baseurl}}" class="no-underline"><h2 class="lh-title f2 link no-underline underline-hover">{{post.title}}</h2></a>
+  <span class="f5 lh-copy">{{ post.excerpt }}</span>
+  <span id="slug" class="gray dib mb4 f6"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%B %-d, %Y" }}</time> ⦿ {% include read-time.html content=post.content %}</span>
+</article>
+{% endfor %}
+
+
+
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a class="red no-underline underline-hover dib f4 fw7" href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a>
+  {% endif %}
+
+
+  <span class="f5" id="page">Page {{ paginator.page }} of {{ paginator.total_pages }}.</span>
+  <!-- {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <em>{{ page }}</em>
+    {% elsif page == 1 %}
+      <a href="{{ paginator.previous_page_path | relative_url }}">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %} -->
+
+  {% if paginator.next_page %}
+    <a class="red no-underline underline-hover dib f4 fw7" href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
+  {% endif %}
+</div>
+{% endif %}
+
+
+<!--
+    <h1 class="f3-ns f2 lh-title ttu tracked">Blog Posts:</h1>
+  <ul>
+    {% for post in paginator.posts %}
+      <li>
+        <a class ="link b black f4-ns f5" href="{{ post.url }}">
+          {{ post.title }}
+        </a>
+        - <time class="helvetica" datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+      </li>
+    {% endfor %}
+  </ul>
+
+  {% include paginator.html %} -->

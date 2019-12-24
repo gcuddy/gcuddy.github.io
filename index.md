@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Gus Cuddy - Actor, writer, director
 images:
   - image_path: /images/thumb/cuddy_headshot1.jpg
@@ -12,11 +12,12 @@ images:
     title: Headshot 2
     link: /images/cuddy_headshot3.jpg
 ---
+<div id="intro" class="lh-title dib f1-ns f2-m f2">gus is an actor, writer <span class="i">&</span> maker</div>
 
-Hey, I'm Gus.  I'm an [actor](/resume) in theatre, film and TV.
+welcome to my website.  i'm an [actor](/resume) in theatre, film and tv.
 
-I [write essays](/blog) and send out a [newsletter](/newsletter) on theatre, culture, and the future. I'm also a director.
+i'm also a writer and director, and i send out a weekly [newsletter](https://guscuddy.substack.com/) on culture and creativity
 
-I was born in Davis, CA, grew up in Rochester, NY, and currently live in **Brooklyn, NY**. I'm of Armenian, Lebanese, Egyptian and Irish descent. But identity is complicated.
+i was born in Davis, CA, grew up in Rochester, NY, and currently live in **Brooklyn, NY**. i'm of Armenian, Lebanese, Egyptian and Irish descent. but identity is complicated.
 
-The best ways to contact me are via [email](mailto:gus.cuddy@gmail.com) or [twitter](http://twitter.com/guscuddy). [Instagram](http://instagram.com/guscuddy) works too. Also find me on [Actor's Access](http://resumes.actorsaccess.com/guscuddy) and [Backstage](http://backstage.com/u/guscuddy). See my [Resume](/resume) for acting inquiries.
+the best ways to contact me are via [email](mailto:gus.cuddy@gmail.com) or [twitter](http://twitter.com/guscuddy). find me on [Actor's Access](http://resumes.actorsaccess.com/guscuddy), [Instagram](http://instagram.com/guscuddy), or [Backstage](http://backstage.com/u/guscuddy). see my [Resume](/resume) for acting inquiries.

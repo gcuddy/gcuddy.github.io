@@ -1,9 +1,156 @@
+body {
+  color: black;
+  background-color: white;
+  font-family: "Work Sans", Helvetica, sans-serif;
+}
+
+
+@media (min-width: 1150px) {
+#home {
+  background-image: url(/images/cuddy_headshot2.jpg);
+  background-position: right top;
+  background-size: 470px;
+  background-repeat: no-repeat;
+}
+}
+
+@media (min-width: 900px) {
+  /* #writing_text {
+    text-align: center;
+  } */
+
+}
+
+@media (min-width: 700px) {
+  #intro_text {
+    margin-left: 10%;
+  }
+  #writing_text {
+    margin-left: 10%;
+  }
+}
+
+
+#intro_text {
+  line-height:1.6;
+}
+
+#writing_text {
+  margin-top: 15%;
+}
+
+#header {
+  color: black;
+  font-family: "Work Sans", Helvetica, sans-serif;
+}
+
+#blog_posts{
+  text-align:left;
+}
+
+#blog_posts h2{
+  color: black;
+  font-family: "Work Sans", Helvetica, sans-serif;
+  font-weight: 700;
+}
+
+#blog_posts a{
+  color: black;
+}
+
+#blog_posts p{
+  color: black;
+  font-family: 'Libre Baskerville', serif;
+  margin-bottom: 20px;
+}
+
+#slug {
+  font-family: 'Roboto Mono', monospace;
+}
+
+#article h2 {
+  font-weight: 700;
+  color: black;
+  margin-bottom: 1%;
+}
+
+#article a {
+  color: black;
+}
+
+#blog_title {
+  margin-bottom: 2%;
+}
+
+#article p {
+  color: black;
+  font-family: 'Libre Baskerville', serif;
+}
+
+#intro {
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 700;
+}
+
+#acting {
+
+}
+
+#logo {
+  color: black;
+  font-weight: 800;
+}
+
+.lh-copy {
+  line-height: 1.8;
+}
+
 .lh-copy a {
   color: #000;
 }
 
+#footer {
+  margin-left: -32px;
+  margin-right: -32px;
+  margin-top: 150px;
+  border-top: 2px solid #E33654;
+  background-color: black;
+  padding: 200px 0;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: black;
+    color: white;
+  }
+  .lh-copy a {
+    color: white;
+  }
+  #logo {
+    color: white;
+  }
+  #blog_posts h2, #blog_posts a, #blog_posts p {
+    color: white;
+  }
+  #article h2, #article p, #article a  {
+    color: white;
+  }
+  #post, #title_link, #copyright a {
+    color:white;
+  }
+
+}
+
 .lh-copy a:hover {
   color: #E7040F;
+}
+
+#post a {
+  color: red;
+}
+
+#post a:hover {
+  color: pink;
 }
 
 h2 {
@@ -19,7 +166,7 @@ blockquote {
   border-left-style: solid;
   border-left-width: 1px;
   border-width: .25rem;
-  border-color: #408bc9;
+  border-color: red;
 }
 
 blockquote em {
@@ -45,12 +192,16 @@ table {
     text-align: center;
 }
 
+#post p, #post ul, #page, #footer p {
+  font-family: 'Libre Baskerville', serif;
+}
+
 #post h1 {
   font-size:1.5rem;
 }
 
 #post h2 {
-  font-size:1.25rem;
+  font-size:2.25rem;
 }
 
 #post h3 {

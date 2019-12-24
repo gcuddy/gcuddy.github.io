@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+{% include head.html %}
+{% include header.html %}
+
+  <body id="home" class="pa4">
+
+    <div id="intro_text" class="measure mt5 lh-copy f4">
+       {{ content }}
+    </div>
+
+    <div id="writing_text" class="measure-wide-ns">
+
+      <div id="intro" class="lh-title dib f1-ns f2-m f2">writing</div>
+
+      <div id="blog_posts" class="mt4">
+        <h3 class="f5 gray fw4 dib ttu tracked">recently:</h3>
+        {% for post in site.posts limit:3 %}
+
+            <a class ="no-underline" href="{{ post.url }}"><h2 class="lh-title f3 link no-underline underline-hover">
+              {{ post.title }}
+            </h2>
+            <span class="f5 lh-copy">{{ post.excerpt }}</span>
+            <span id="slug" class="gray dib mb4"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%B %-d, %Y" }}</time> ⦿ {% include read-time.html content=post.content %}</span>
+          </a>
+        {% endfor %}
+
+        <p><a href="/blog" class="no-underline underline-hover dib f4 fw7">See all writing →</a></p>
+    </div>
+
+    </div>
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
+  </body>
+
+</html>

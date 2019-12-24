@@ -3,9 +3,8 @@ layout: default
 permalink: /resume
 ---
 
-<h1 class="f3-ns f2 lh-title ttu tracked">Headshots and Resume</h1>
-
-<div class="cf">
+<div class="cf mt4">
+<h2 class="f3">headshots + resume</h2>
   <div class="fl w-100 w-50-ns">
   <a class="dim" href="/images/cuddy_headshot.jpg">
     <img src="/images/thumb/cuddy_headshot.jpg" alt="Headshot"/>

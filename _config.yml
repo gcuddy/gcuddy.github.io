@@ -26,7 +26,8 @@ github_username: gcuddy
 
 future: false
 
-paginate: 5
+paginate: 10
+paginate_path: "/blog/page:num/"
 
 permalink: /:year/:month/:day/:title/
 
@@ -49,6 +50,7 @@ gems:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-paginate
 exclude:
   - Gemfile
   - Gemfile.lock
