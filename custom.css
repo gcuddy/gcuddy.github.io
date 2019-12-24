@@ -135,7 +135,7 @@ body {
   #article h2, #article p, #article a  {
     color: white;
   }
-  #post, #title_link, #copyright a {
+  #post, #title_link, #copyright a, blockquote p {
     color:white;
   }
 

@@ -14,9 +14,9 @@ images:
 ---
 <div id="intro" class="lh-title dib f1-ns f2-m f2">gus is an actor, writer <span class="i">&</span> maker</div>
 
-welcome to my website.  i'm an [actor](/resume) in theatre, film and tv.
+welcome to my website.  mainly, i'm an [actor](/resume) in theatre, film and tv.
 
-i'm also a writer and director, and i send out a weekly [newsletter](https://guscuddy.substack.com/) on culture and creativity
+i also write and direct. every tuesday i send out a popular weekly [newsletter](https://guscuddy.substack.com/) on culture and creativity called _The Curtain_.
 
 i was born in Davis, CA, grew up in Rochester, NY, and currently live in **Brooklyn, NY**. i'm of Armenian, Lebanese, Egyptian and Irish descent. but identity is complicated.
 
