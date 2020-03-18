@@ -18,7 +18,9 @@ email: gus.cuddy@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   NYC-based actor and writer.
 # baseurl: "" # the subpath of your site, e.g. /blog
-url: http://guscuddy.com # the base hostname & protocol for your site, e.g. http://example.com
+url: https://guscuddy.com # the base hostname & protocol for your site, e.g. http://example.com
+// Not used anymore
+enforce_ssl: guscuddy.com
 twitter:
   username: guscuddy
   card: summary
