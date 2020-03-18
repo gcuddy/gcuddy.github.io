@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Hidden Conservatism in Minimalism
-
 ---
 
 Philip Johnson was a Nazi, that much is clear.
@@ -11,6 +10,7 @@ The man who built the iconic minimalist "glass house" and other twentieth centur
 > His sympathy for fascism is apparent in the strictness of the architecture itself. It’s a house built for and by a single person, demonstrating a kind of megalomaniacal possessiveness. The architect has nothing at stake in making a visitor comfortable, only himself.
 
 /Glass house.jpeg
+
 ##### Philip Johnson's glass house.
 
 Twentieth century modernism emerged in the mid century after two devastating world wars. As Chayka puts it, modernism "offered an antiseptic, ahistorical alternative to what came before it—a vision of a safer and cleaner world, with cosmopolitan equality for all who inhabited its architecture." The de-ornamentation of minimalism, in other words, was its own type of Puritanism. It enabled a type of [subtle nostalgia](https://guscuddy.substack.com/p/the-curtain-31-nostalgia-is-toxic) and regressive politics.
