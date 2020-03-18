@@ -21,3 +21,5 @@ i also write and direct. every tuesday i send out a popular weekly [newsletter](
 i was born in Davis, CA, grew up in Rochester, NY, and currently live in **Brooklyn, NY**. i'm of Armenian, Lebanese, Egyptian and Irish descent. but identity is complicated.
 
 the best ways to contact me are via [email](mailto:gus.cuddy@gmail.com) or [twitter](https://twitter.com/guscuddy). find me on [Actor's Access](https://resumes.actorsaccess.com/guscuddy), [Instagram](https://instagram.com/guscuddy), or [Backstage](https://backstage.com/u/guscuddy). see my [Resume](/resume) for acting inquiries.
+
+<iframe src="https://guscuddy.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
