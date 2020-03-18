@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Gus Cuddy - Actor, writer, director
+title: Home
 images:
   - image_path: /images/thumb/cuddy_headshot1.jpg
     title: Headshot 1
