@@ -20,7 +20,7 @@
             <a class ="no-underline" href="{{ post.url }}"><h2 class="lh-title f3 link no-underline underline-hover">
               {{ post.title }}
             </h2>
-            <span class="f5 lh-copy">{{ post.excerpt }}</span>
+            <span class="f5 lh-copy">{{ post.description }}</span>
             <span id="slug" class="gray dib mb4"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%B %-d, %Y" }}</time> ⦿ {% include read-time.html content=post.content %}</span>
           </a>
         {% endfor %}
