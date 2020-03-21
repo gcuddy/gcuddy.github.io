@@ -16,7 +16,7 @@ images:
 
 welcome to my website.  mainly, i'm an [actor](/resume) in theatre, film and tv.
 
-i also write and direct. every tuesday i send out a popular weekly [newsletter](https://guscuddy.substack.com/) on culture and creativity called _The Curtain_.
+i also write and direct. every tuesday i send out a weekly [newsletter](https://guscuddy.substack.com/) on theatre, culture and creativity called _The Curtain_. i highly recommend you sign up!
 
 i was born in Davis, CA, grew up in Rochester, NY, and currently live in **Brooklyn, NY**. i'm of Armenian, Lebanese, Egyptian and Irish descent. but identity is complicated.
 
