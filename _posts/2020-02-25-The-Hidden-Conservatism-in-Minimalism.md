@@ -16,7 +16,8 @@ The man who built the iconic minimalist "glass house" and other twentieth centur
 
 Twentieth century modernism emerged in the mid century after two devastating world wars. As Chayka puts it, modernism "offered an antiseptic, ahistorical alternative to what came before it—a vision of a safer and cleaner world, with cosmopolitan equality for all who inhabited its architecture." The de-ornamentation of minimalism, in other words, was its own type of Puritanism. It enabled a type  of [subtle nostalgia](https://www.guscuddy.com/2020/03/20/Cultural-Nostalgia-is-Toxic/) and regressive politics.
 
-[By flattening things out](https://www.guscuddy.com/2020/01/22/The-Pitfalls-and-Transcendences-of-Minimalism,-and-the-Potentials-of-Maximalism/), we may be able to achieve some sort of transcendence. But often we are merely hiding away from the immense complexity and [entanglements](https://guscuddy.substack.com/p/the-curtain-40-the-entanglement) of the world.
+[By flattening things out](https://www.guscuddy.com/2020/01/22/The-Pitfalls-and-Transcendences-of-Minimalism,-and-the-Potentials-of-Maximalism/), we may be able to achieve some sort of transcendence. But often we are merely hiding away from the immense complexity and [entanglements]({% post_url 2020-03-02-The-Entanglement %}) of the world.
+
 
 Recently, [I grappled](https://guscuddy.substack.com/p/european-theatre-vs-american-theatre) with some of the flattening that the important theatre director Ivo Van Hove does. The tides have turned against Van Hove a bit. What once went felt startlingly fresh---like a glass of cold water thrown against the face of American theatre---now feels a bit familiar and played out. At his best, Van Hove can offer spectacular and brutal visions of our inner psyches. But at his worst, Van Hove's largely apolitical work can feel removed and regressive, problematic in similar ways to Johnson's.
 

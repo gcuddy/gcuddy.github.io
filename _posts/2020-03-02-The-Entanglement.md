@@ -1,7 +1,6 @@
 ---
 Title: The Entanglement
 Layout: post
-Permalink: /entanglement
 ---
 
 
@@ -9,7 +8,7 @@ We live in webs of entanglements. Amidst history, society and pop culture, these
 
 Many entanglements are things we must constantly grapple with. As a nation, the United States is founded on life, liberty and the pursuit of happiness; it also has deeply rooted [white supremacy](https://www.theatlantic.com/magazine/archive/2019/04/adam-serwer-madison-grant-white-nationalism/583258/), misogyny, and violence. At the movies—an art form founded by immigrants—one of the cornerstone, influential works is *Birth of a Nation*: the story of heroizing the Ku Klux Klan. Today, a movie like *Black Panther* can be an influential pro-black work, while also being an intellectual property originally created by [two white men](https://en.m.wikipedia.org/wiki/Black_Panther_(Marvel_Comics)) and owned by mega-corporation Disney. In music, the most influential American genres like Jazz and Hip Hop were created by African-Americans, and yet are [constantly appropriated by white creators](https://www.nytimes.com/interactive/2019/08/14/magazine/music-black-culture-appropriation.html)—and appear in the Billboard Charts as a result. And at the theatre, we have a renaissance of incredible, radical black playwrights, yet these works consistently are appearing in white institutions, and seen by mostly white audiences.
 
-In an interview in [Brooklyn Rail](https://brooklynrail.org/2019/06/theater/In-Dialogue-Inner-Life-Out-Loud-A-Strange-Loop)between playwrights Branden Jacobs-Jenkins and Michael R. Jackson, Jenkins touched on this last entanglement:
+In an interview in [Brooklyn Rail](https://brooklynrail.org/2019/06/theater/In-Dialogue-Inner-Life-Out-Loud-A-Strange-Loop) between playwrights Branden Jacobs-Jenkins and Michael R. Jackson, Jenkins touched on this last entanglement:
 
 > I don't think there's a lot of conversation among black artists about their entanglements with whiteness. And how their voices are almost fully enabled because of white institutions, white kind of like audiences, white patronage, white criticism, and there's like very little interest in untangling that, or talking about that entanglement. And I just wonder what that is.
 
