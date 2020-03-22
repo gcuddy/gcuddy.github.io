@@ -3,7 +3,7 @@ title: The Durability and Continued Promise of the Immersive
 layout: post
 ---
 
-### Why were all trying to escape into another world.
+### Why we're all trying to escape into another world.
 
 I’ve noticed a trend recently.
 
