@@ -3,7 +3,7 @@ title: How to tell the truth
 layout: post
 ---
 
-# Perception, illusion, and un-reality
+### Perception, illusion, and un-reality
 
 Recently I caught Lucas Hnath's new work, *[Dana H](https://www.vineyardtheatre.org/dana-h/)*, which I thought was one of the most stunning things I've seen in a long time. As a piece of theatre, it's shocking and sort of unreal: Hnath has cut together real-life interviews (conducted by Steve Cosson of The Civilians) with his mother, retelling her harrowing story of being abducted by a member of the Aryan Brotherhood, into a 75-minute sort of "narrative". This audio is then played for us while Deidre O'Connell puts in a pair of headphones and lip-syncs the entire thing, beat for beat. That's pretty much the entire show. But its effect is devastating, a feeling not like anything I've quite felt before in the theatre.
 
@@ -29,7 +29,7 @@ This documentary aspect of art has become an increasingly popular trend that can
 
 I'm increasingly fascinated by how art and reality, lies and truth, perception and facts can all intertwine and intermingle. In a time of fake news, unreliable sources of truth, and issues of believing survivors, it seems like these kinds of work can hold a grip on us in a new, entirely unexpected way.
 
-## Vulnerability
+### Vulnerability
 
 Recently I've been finally attempting to read Karl Ove Knausgaard's *My Struggle* series, which is a massive six volume set that is basically one incredibly detailed, somewhat mundane, yet strikingly vulnerable (to the point of embarrassment) and addicting memoir. In the first volume, Knausgaard spends at least 60 pages recounting a single night of trying to get beer for a New Year's Eve party. It's exhaustingly thorough and detailed, flipping a microscope onto himself in a way that's somehow both cringe-inducing and fascinating.
 
