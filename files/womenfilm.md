@@ -1,6 +1,6 @@
-# Women in Film Checklist
+# womenfilm
 
-- [x] the Rest I mAke up
+- [x] the Rest I mAke up (Michelle memran)
 - [ ] Celine Sciamma
 	- [x] Water Lillies
 	- [x] Tomboy
@@ -17,6 +17,8 @@
 	- [ ] https://www.newyorker.com/culture/the-front-row/kathleen-collins-notes-from-a-black-womans-diary-contains-an-extraordinary-unmade-movie
 	- [ ]  https://shadowandact.com/this-1984-two-hour-conversation-with-filmmaker-kathleen-collins-will-make-you-wonder-what-other-great-art-she-wouldve-made/ 
 	- [ ] https://www.criterionchannel.com/directed-by-kathleen-collins/season:1/videos/kathleen-collins-interview
+- [ ] Nancy Myers
+	- [ ] The Parent Trap
 - [ ] Agnes Varda
 	- [ ] The Gleaners and I
 	- [ ] https://www.theyshootpictures.com/vardaagnes.htm
