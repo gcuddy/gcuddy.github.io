@@ -11,11 +11,11 @@ The Curtain is my weekly newsletter, and I'd love to have you on the list. Each 
 
 Sign up below:
 
-<div class="pb2">
+<div>
  <form id="my-form" name="email-capture" class="measure-wide br2-ns ba b--black-10 center" data-netlify="true" method="POST">
    <div class="cf">
-   <input class="f5 input-reset bn fl black bg-white pa3 lh-solid w-100 w-75-m w-80-l br2-ns br--left-ns" name="email" type="email" placeholder="Email" required>
-   <button type="submit" class="f4 button-reset fl pv3 tc bn bg-red white pointer w-100 w-25-m w-20-l br2-ns br--right-ns">Subscribe</button>
+   <input class="input-reset bn fl black bg-white pa3 lh-solid w-100 w-75-m w-80-l br2-ns br--left-ns" name="email" type="email" placeholder="Email" required>
+   <button type="submit" class="button-reset fl pv3 tc bn bg-red white pointer w-100 w-25-m w-20-l br2-ns br--right-ns">Subscribe</button>
    </div>
  </form>
 
