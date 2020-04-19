@@ -1,6 +1,7 @@
 ---
 Title: The Entanglement
 Layout: post
+permalink: /entanglement
 ---
 
 

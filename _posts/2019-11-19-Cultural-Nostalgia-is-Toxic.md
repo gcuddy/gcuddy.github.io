@@ -1,6 +1,7 @@
 ---
 Title: Cultural Nostalgia is Toxic
 Layout: post
+permalink: /nostalgia
 ---
 
 In 2019, our culture, in all different forms and paths, seems to be obsessed with nostalgia. Hipsters seek out vintage clothing and vinyl records; Trump speaks not only of Making America Great Again but of the glory days of things like football; Quentin Tarantino made a movie that glorifies powerful (and abusive) mid-century white men in Hollywood; we constantly romanticize the aesthetics of earlier decades, each with a type of happiness: the 70s, 80s, 90s, and now, even the 00s; the just-launched Disney+ seems to have an entire vertical integration strategy of monopolizing nostalgia. It comes from all directions: the left, the right, from above, and from below.

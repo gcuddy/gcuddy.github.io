@@ -1,8 +1,10 @@
 ---
 title: "Recommended Links"
 permalink: /links
-layout: post
+layout: home
 ---
+
+<div id="intro" class="lh-title dib f1-ns f2-m f2">Recommended Links</div>
 
 I’d like to use the internet to help spread ideas about theatre, and help it thrive in the 21st century.
 
@@ -10,10 +12,10 @@ I've been collecting these links for years: videos, articles, essays, etc. These
 
 This list will be updated whenever I come across something new and exciting.
 
-**[And if you like these ideas, you’ll love my weekly newsletter, the curtain. Subscribe here.](https://guscuddy.substack.com/)**
+**And if you like these ideas, you’ll love my weekly newsletter, The Curtain. [Subscribe here.](https://guscuddy.substack.com/)**
 
 
-### Links
+## Links
 
 **[Sara Holdren on criticism and directing](https://www.vulture.com/2018/12/i-make-plays-i-write-criticism-im-not-my-own-enemy.html)**
 

@@ -112,10 +112,10 @@ body {
 #footer {
   margin-left: -32px;
   margin-right: -32px;
-  margin-top: 150px;
+  margin-top: 2rem;
   border-top: 2px solid #E33654;
   background-color: black;
-  padding: 200px 0;
+  border-bottom: 2px solid #E33654;
 }
 
 @media (prefers-color-scheme: dark) {

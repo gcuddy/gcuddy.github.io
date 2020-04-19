@@ -4,7 +4,8 @@ description: "Reflecting on the current state of the theatre audience in 2019."
 layout: post
 categories: [Theatre]
 series: "The Future of Theatre"
-excerpt: <p>Reflecting on the current state of the theatre audience in 2019.</p>
+excerpt: Reflecting on the current state of the theatre audience in 2019.
+permalink: /audience
 ---
 
 ![audience](/images/2019/10/audience.jpg)

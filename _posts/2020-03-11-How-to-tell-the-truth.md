@@ -1,6 +1,7 @@
 ---
 title: How to tell the truth
 layout: post
+permalink: /tellthetruth
 ---
 
 ### Perception, illusion, and un-reality

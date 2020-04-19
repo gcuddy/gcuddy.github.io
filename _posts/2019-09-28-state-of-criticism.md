@@ -4,6 +4,7 @@ description: Reflecting on the state of criticism in theatre and beyond in 2019.
 excerpt: <p>Reflecting on the state of criticism in theatre and beyond in 2019.</p>
 layout: post
 series: "The Future of Theatre"
+permalink: /criticism
 categories:
   - Theatre
   - Criticism

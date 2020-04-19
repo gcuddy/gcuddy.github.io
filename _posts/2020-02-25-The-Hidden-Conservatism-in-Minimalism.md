@@ -2,6 +2,7 @@
 Title: The Hidden Conservatism in Minimalism
 Layout: post
 description: What exactly are we hiding?
+permalink: /conservatism-in-minimalism
 ---
 
 Philip Johnson was a Nazi, that much is clear.

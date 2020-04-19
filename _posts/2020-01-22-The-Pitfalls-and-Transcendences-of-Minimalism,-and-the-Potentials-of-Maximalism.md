@@ -1,6 +1,7 @@
 ---
 layout: post
-title: The Pitfalls and Transcendences of Minimalism, and the Potentials of Maximalism
+title: The Cult of Minimalism
+permalink: /minimalism
 description: Minimalism as an artistic genre can lead to transcendence. But its rise as an aesthetic language is more troubling.
 ---
 

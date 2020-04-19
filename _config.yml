@@ -29,8 +29,6 @@ future: false
 paginate: 10
 paginate_path: "/blog/page:num/"
 
-permalink: /:year/:month/:day/:title/
-
 collections:
   books:
     output: true

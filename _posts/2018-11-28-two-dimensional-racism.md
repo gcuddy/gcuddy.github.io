@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Two-dimensional racism"
+permalink: /2dracism
 ---
 In theatre, film, and the performing arts in general, there is a very common case of what I call *two-dimensional racism*. This is the sort of optics-based casting that is simply meant to check off casting people of color like there's a quota to fill; there is no depth to the diversity---it is two-dimensional.
 
