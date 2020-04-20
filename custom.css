@@ -21,13 +21,18 @@ body {
 
 }
 
-@media (min-width: 700px) {
+@media (min-width: 60em) {
   #intro_text {
     margin-left: 10%;
   }
-  #writing_text {
-    margin-left: 10%;
+}
+
+@media (max-width: 60em) {
+  #intro_text {
+    margin-right: auto;
+    margin-left: auto;
   }
+
 }
 
 
