@@ -5,9 +5,9 @@
 
   <body class="pa4">
 
-    <div class="black measure f4 center mt6-ns mt5">
-    <a id="title_link" class="black no-underline lh-solid" href="{{ page.url }}"><h1 id="blog_title" class="f1 lh-solid">{{ page.title }}</h1></a>
-    <span id="slug" class="f5 gray dib">Gus Cuddy // {{ page.date | date: "%B %-d, %Y" }}</span>
+    <div class="black measure f4 center mt5">
+    <a id="title_link" class="black no-underline" href="{{ page.url }}"><h1 id="intro" class="f1 lh-title">{{ page.title }}</h1></a>
+    <span id="slug" class="f5 gray dib">{{ page.date | date: "%B %-d, %Y" }}</span>
 </h1>
 
        <div id="post" class="lh-copy f5 mt4">
@@ -16,10 +16,10 @@
 
        </div>
     </div>
-       <div id="footer">
+       <div class="pa3" id="footer">
          <h2 class="center tc white f2 pt2">Sign Up for <span class="i">The Curtain</span></h2>
-         <p class="lh-copy near-white f5 mb4 measure center o-70 tc">Join 100+ readers who receive The Curtain email newsletter in their inbox. Each week I deep dive into ideas and links from theatre, culture, creativity, film, and more.</p>
- <form id="my-form" name="email-capture" class="measure-wide br2-ns ba b--black-10 center" data-netlify="true" method="POST">
+         <p class="near-white f5 mb4 measure center o-70 tc">Join 100+ readers who receive The Curtain email newsletter in their inbox. Each week I deep dive into ideas and links from theatre, culture, creativity, film, and more.</p>
+ <form id="my-form" name="email-capture" class="measure-wide br2-ns ba b--black-10 center pb2" data-netlify="true" method="POST">
    <div class="cf">
    <input class="input-reset bn fl black bg-white pa3 lh-solid w-100 w-75-m w-80-l br2-ns br--left-ns" name="email" type="email" placeholder="Email" required>
    <button type="submit" class="button-reset fl pv3 tc bn bg-red white pointer w-100 w-25-m w-20-l br2-ns br--right-ns">Subscribe</button>
@@ -38,14 +38,19 @@
     $(".js-success-message").show();
   });
 });
+
+$(document).ready(function(){
+  $("#post p:first").attr("id", "intro");
+});
+
  </script>
 
 
+
+         </div>
         <div id="twitter">
           <p class="b tc f5"><a class="link dim black underline" target="_blank" href="https://twitter.com/guscuddy">Connect with me on twitter.</a></p>
         </div>
-
-         </div>
 
        </div>
   </body>

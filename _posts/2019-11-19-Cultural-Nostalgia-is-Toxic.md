@@ -4,7 +4,9 @@ Layout: post
 permalink: /nostalgia
 ---
 
-In 2019, our culture, in all different forms and paths, seems to be obsessed with nostalgia. Hipsters seek out vintage clothing and vinyl records; Trump speaks not only of Making America Great Again but of the glory days of things like football; Quentin Tarantino made a movie that glorifies powerful (and abusive) mid-century white men in Hollywood; we constantly romanticize the aesthetics of earlier decades, each with a type of happiness: the 70s, 80s, 90s, and now, even the 00s; the just-launched Disney+ seems to have an entire vertical integration strategy of monopolizing nostalgia. It comes from all directions: the left, the right, from above, and from below.
+It seems that our culture, in all different forms and paths, is obsessed with nostalgia. 
+
+Hipsters seek out vintage clothing and vinyl records; Trump speaks not only of Making America Great Again but of the glory days of things like football; Quentin Tarantino made a movie that glorifies powerful (and abusive) mid-century white men in Hollywood; we constantly romanticize the aesthetics of earlier decades, each with a type of happiness: the 70s, 80s, 90s, and now, even the 00s; the just-launched Disney+ seems to have an entire vertical integration strategy of monopolizing nostalgia. It comes from all directions: the left, the right, from above, and from below.
 
 But cultural nostalgia, especially when it comes to art, is toxic. Romanticizing the past is a way of repeating the past---a past filled with racism, injustice, inequality, and genocide. When we allow nostalgia without any form of interrogation, we are dooming ourselves to a society and culture that repeats its same mistakes, over and over, in a cycle of mimetic violence.
 

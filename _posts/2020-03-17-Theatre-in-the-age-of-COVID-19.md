@@ -26,15 +26,15 @@ And who actually gets to watch these filmed shows? Just ticket buyers? What abou
 
 You can watch Young Jean Lee's 2011 performance of her show WE'RE GONNA DIE (which just was forced to close its new run at Second Stage) online for free 
 
-https://twitter.com/YoungJean_Lee/status/1238268661086867456
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">WE&#39;RE GONNA DIE, directed by <a href="https://twitter.com/rajafeath3r?ref_src=twsrc%5Etfw">@rajafeath3r</a> and performed by <a href="https://twitter.com/janellemcdrmth?ref_src=twsrc%5Etfw">@janellemcdrmth</a>, closed early due to COVID with its last show tonight. But you can watch the low-fi version, performed by myself (as well as the version I did with David Byrne) on my website. <a href="https://t.co/rDTUp2RMtX">https://t.co/rDTUp2RMtX</a></p>&mdash; Young Jean Lee (@YoungJean_Lee) <a href="https://twitter.com/YoungJean_Lee/status/1238268661086867456?ref_src=twsrc%5Etfw">March 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 You can also go to OntheBoards.TV and use the code ARTATHOME20 for free streaming thru the end of April. They have an excellent collection of experimental theatre, dance, music, and category-defying work.' Recs here:
 
-https://twitter.com/Helen_E_Shaw/status/1239237406467010561
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Around 60 tip-top experimental performances (incl. Okwui Okpokwasili&#39;s Bronx Gothic, the Rude Mechs&#39; The Method Gun, and Young Jean Lee&#39;s The Shipment), all for free through April, all streaming on <a href="https://t.co/1seTBwTa20">https://t.co/1seTBwTa20</a> !!!! See one each night, keep that show-going habit ALIVE</p>&mdash; Helen Shaw (@Helen_E_Shaw) <a href="https://twitter.com/Helen_E_Shaw/status/1239237406467010561?ref_src=twsrc%5Etfw">March 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 But perhaps the biggest question for theatre: will artists still get paid? For many New York theaters, the answer seems to be yes. For now. 
 
-https://twitter.com/arsnova/status/1238232430798143489
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We’re so proud to be part of such a kick-ass community with companies like <a href="https://twitter.com/sohorep?ref_src=twsrc%5Etfw">@sohorep</a> and <a href="https://twitter.com/NYTW79?ref_src=twsrc%5Etfw">@NYTW79</a> who are also committed to paying folks during our closures! Let’s roll call the other orgs we should be lifting up right now and send so much social media love. It means a lot!</p>&mdash; Ars Nova (@arsnova) <a href="https://twitter.com/arsnova/status/1238232430798143489?ref_src=twsrc%5Etfw">March 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 But I'm not sure how things will fare elsewhere in the country, and for smaller theaters. This is a difficult time for everyone involved. Everyone is losing work. 
 

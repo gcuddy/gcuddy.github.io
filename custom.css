@@ -4,7 +4,7 @@ body {
   font-family: "Work Sans", Helvetica, sans-serif;
 }
 
-
+/*
 @media (min-width: 1150px) {
 #home {
   background-image: url(/images/cuddy_headshot2.jpg);
@@ -12,7 +12,7 @@ body {
   background-size: 470px;
   background-repeat: no-repeat;
 }
-}
+}*/
 
 @media (min-width: 900px) {
   /* #writing_text {
@@ -84,7 +84,6 @@ body {
 
 #article p {
   color: black;
-  font-family: 'Libre Baskerville', serif;
 }
 
 #intro {
@@ -193,7 +192,6 @@ table {
 }
 
 #post p, #post ul, #page, #footer p {
-  font-family: 'Libre Baskerville', serif;
 }
 
 #post h1 {

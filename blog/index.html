@@ -3,10 +3,9 @@ layout: blog
 title: "Blog"
 ---
 
-<h3 class="f5 red fw4 dib ttu tracked">Recent Writing:</h3>
 <!-- post list -->
 {% for post in paginator.posts %}
-<article id="article"><a href="{{post.url | prepend: site.baseurl}}" class="no-underline"><h2 class="lh-title f2 link no-underline underline-hover">{{post.title}}</h2></a>
+<article id="article"><a href="{{post.url | prepend: site.baseurl}}" class="no-underline"><h2 id="intro" class="lh-title f2 link no-underline underline-hover">{{post.title}}</h2></a>
   <span class="f5 lh-copy">{{ post.excerpt }}</span>
   <span id="slug" class="gray dib mb4 f6"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%B %-d, %Y" }}</time> ⦿ {% include read-time.html content=post.content %}</span>
 </article>

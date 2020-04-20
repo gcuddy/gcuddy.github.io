@@ -12,7 +12,12 @@ images:
     title: Headshot 2
     link: /images/cuddy_headshot3.jpg
 ---
+
+<p class="tc"><img class="w-100 w-50-ns" src="/images/me.jpg"></p>
+
+
 <div id="intro" class="lh-title dib f1-ns f2-m f2">hi, i'm gus.</div>
+
 
 Welcome to my cyber home.  I [write](/blog), [act](/acting), and make theatre and movies.
 
