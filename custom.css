@@ -1,7 +1,7 @@
 body {
   color: black;
   background-color: white;
-  font-family: "Work Sans", Helvetica, sans-serif;
+  font-family: "Work Sans", sans-serif;
 }
 
 /*
@@ -89,6 +89,10 @@ body {
 
 #article p {
   color: black;
+}
+
+#skin, #corpse, #anne, #moon, #proud {
+  display: none;
 }
 
 #intro {

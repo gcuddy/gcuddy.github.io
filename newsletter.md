@@ -37,3 +37,9 @@ Sign up below:
 You can always read [the full archive here](https://guscuddy.substack.com/archive).
 
 The emails are sent from my personal email and you can reply directly or unsubscribe anytime.
+
+## What People Are Saying:
+
+"I look forward to it every week and love the multi-pronged approach to absorbing artwork, theater and otherwise. It is rare and even if I don't always agree, I dig it."
+
+"Your newsletter is like one of the highlights of my week." 

@@ -6,19 +6,23 @@
   <body class="pa4">
 
     <div class="black measure f4 center mt5">
-    <a id="title_link" class="black no-underline" href="{{ page.url }}"><h1 id="intro" class="f1 lh-title">{{ page.title }}</h1></a>
-    <span id="slug" class="f5 gray dib">{{ page.date | date: "%B %-d, %Y" }}</span>
+    <a id="title_link" class="black no-underline" href="{{ page.url }}"><h1 id="intro" class="tc tl-l f1 lh-title">{{ page.title }}</h1></a>
+    <div class="tc tl-l"><span id="slug" class="f5 gray dib">{{ page.date | date: "%B %-d, %Y" }}</span></div>
 </h1>
 
        <div id="post" class="lh-copy f5 mt4">
 
        {{ content }}
 
+       <hr />
+
+       <p>If you'd like to receive future posts by email, subscribe to my newsletter below.</p>
+
        </div>
     </div>
-       <div class="pa3" id="footer">
-         <h2 class="center tc white f2 pt2">Sign Up for <span class="i">The Curtain</span></h2>
-         <p class="near-white f5 mb4 measure center o-70 tc">Join 100+ readers who receive The Curtain email newsletter in their inbox. Each week I deep dive into ideas and links from theatre, culture, creativity, film, and more.</p>
+       <div class="pa3 pa0-l" id="footer">
+         <h2 class="center tc white f2">Sign Up for <span class="i">The Curtain</span></h2>
+         <p class="near-white f5 mb4 measure center tc">Join 100+ readers who receive The Curtain email newsletter in their inbox. Each week I deep dive into ideas and links from theatre, culture, creativity, film, and more.</p>
  <form id="my-form" name="email-capture" class="measure-wide br2-ns ba b--black-10 center pb2" data-netlify="true" method="POST">
    <div class="cf">
    <input class="input-reset bn fl black bg-white pa3 lh-solid w-100 w-75-m w-80-l br2-ns br--left-ns" name="email" type="email" placeholder="Email" required>
@@ -26,7 +30,9 @@
    </div>
  </form>
 
+
  <p class="js-success-message is-hidden f4" style="display: none; color:green; text-align: center;">Success! You'll receive your first email soon.</p>
+ <p class="near-white f5 mt2 measure center tc">"<strong>I look forward to it every week</strong> and love the multi-pronged approach to absorbing artwork, theater and otherwise."</p>
 
 <script>
   $("#my-form").submit(function(e) {

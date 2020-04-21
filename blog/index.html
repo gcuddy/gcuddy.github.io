@@ -6,7 +6,7 @@ title: "Blog"
 <!-- post list -->
 {% for post in paginator.posts %}
 <article id="article"><a href="{{post.url | prepend: site.baseurl}}" class="no-underline"><h2 id="intro" class="lh-title f2 link no-underline underline-hover">{{post.title}}</h2></a>
-  <span class="f5 lh-copy">{{ post.excerpt }}</span>
+  <p class="f5 lh-copy">{{ post.description }}</p>
   <span id="slug" class="gray dib mb4 f6"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%B %-d, %Y" }}</time> ⦿ {% include read-time.html content=post.content %}</span>
 </article>
 {% endfor %}
