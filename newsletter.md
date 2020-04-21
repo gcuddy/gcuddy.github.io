@@ -1,6 +1,7 @@
 ---
 layout: home
 permalink: /newsletter
+active: newsletter
 ---
 
 <div id="intro" class="lh-title dib f1-ns f2-m f2">The Curtain</div>

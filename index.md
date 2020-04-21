@@ -1,16 +1,7 @@
 ---
 layout: home
 title: Home
-images:
-  - image_path: /images/thumb/cuddy_headshot1.jpg
-    title: Headshot 1
-    link: /images/cuddy_headshot1.jpg
-  - image_path: /images/thumb/cuddy_headshot2.jpg
-    title: Headshot 2
-    link: /images/cuddy_headshot2.jpg
-  - image_path: /images/thumb/cuddy_headshot3.jpg
-    title: Headshot 2
-    link: /images/cuddy_headshot3.jpg
+active: home
 ---
 
 <p class="tc"><img class="w-100 w-50-ns" src="/images/me.jpg"></p>

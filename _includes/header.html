@@ -2,11 +2,31 @@
 
   <nav class="tc tl-l">
     <a id="logo" class="f3 link no-underline underline-hover tc tl-l w-100 w-auto-l dib mr3" href="/" title="Home">GUS CUDDY</a>
+    {% if page.active == "home" %}
+    <a class="link no-underline underline-hover red f4 dib mr3 pv1 pv0-l mt1" href="/" title="Home">start here</a>
+    {% else %}
     <a class="link no-underline underline-hover gray f4 dib mr3 pv1 pv0-l mt1" href="/" title="Home">start here</a>
+    {% endif %}
+    {% if page.active == "blog" %}
+    <a class="link no-underline underline-hover red f4 dib mr3" href="/blog" title="Essays">essays</a> 
+    {% else %}
     <a class="link no-underline underline-hover gray f4 dib mr3" href="/blog" title="Essays">essays</a>
+    {% endif %}
+    {% if page.active == "acting" %}
+    <a class="link no-underline underline-hover red f4 dib mr3" href="/acting" title="Acting">acting</a>
+    {% else %}
     <a class="link no-underline underline-hover gray f4 dib mr3" href="/acting" title="Acting">acting</a>
+    {% endif %}
+    {% if page.active == "newsletter" %}
+    <a class="link no-underline underline-hover red f4 dib mr3" href="/newsletter" title="Newsletter">newsletter</a>
+    {% else %}
     <a class="link no-underline underline-hover gray f4 dib mr3" href="/newsletter" title="Newsletter">newsletter</a>
+    {% endif %}
+    {% if page.active == "links" %}
+    <a class="link no-underline underline-hover red f4 dib" href="/links" title="Links">links</a>
+    {% else %}
     <a class="link no-underline underline-hover gray f4 dib" href="/links" title="Links">links</a>
+    {% endif %}
   </nav>
 
 

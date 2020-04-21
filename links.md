@@ -2,6 +2,7 @@
 title: "Recommended Links"
 permalink: /links
 layout: home
+active: links
 ---
 
 <div id="intro" class="lh-title dib f1-ns f2-m f2">Recommended Links</div>

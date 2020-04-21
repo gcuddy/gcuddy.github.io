@@ -2,6 +2,7 @@
 layout: home
 title: Acting
 permalink: /acting
+active: acting
 ---
 
 <div id="intro" class="lh-title dib f1-ns f2-m f2">headshots <span class="i">&</span> resume</div>
