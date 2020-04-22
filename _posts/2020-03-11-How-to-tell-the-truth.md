@@ -1,5 +1,7 @@
 ---
 title: How to tell the truth
+description: Examining perception, illusion, and un-reality in the work of Lucas Hnath, Tina Satter, and the Safdie Brothers.
+image: /images/DanaH.jpg
 layout: post
 permalink: /tellthetruth
 ---
