@@ -6,15 +6,13 @@ layout: post
 permalink: /tellthetruth
 ---
 
-### Perception, illusion, and un-reality
+![](/images/DanaH.jpg)
 
 Recently I caught Lucas Hnath's new work, *[Dana H](https://www.vineyardtheatre.org/dana-h/)*, which I thought was one of the most stunning things I've seen in a long time. 
 
-As a piece of theatre, *Dana H* is shocking and sort of unreal: Hnath has cut together real-life interviews (conducted by Steve Cosson of The Civilians) with his mother, retelling her harrowing story of being abducted by a member of the Aryan Brotherhood, into a 75-minute sort of "narrative". This audio is then played for us while Deidre O'Connell puts in a pair of headphones and lip-syncs the entire thing, beat for beat. That's pretty much the entire show. But its effect is devastating, a feeling not like anything I've quite felt before in the theatre.
+As a piece of theatre, *Dana H* is shocking and sort of unreal: Hnath has cut together real-life interviews (conducted by Steve Cosson of The Civilians) with his mother, retelling her harrowing story of being abducted by a member of the Aryan Brotherhood, into a 75-minute sort of "narrative". This audio is then played for us while Deidre O'Connell (pictured above) puts in a pair of headphones and lip-syncs the entire thing, beat for beat. That's pretty much the entire show. But its effect is devastating, a feeling not like anything I've quite felt before in the theatre.
 
-![](/images/DanaH.jpg)
 
-##### Deidre O'Connell in the exceptional *Dana H*
 
 *Dana H* plays in interesting conversation with the Vineyard's first show of their season, *Is This a Room*. That show was also a piece of excellent documentary theatre based on a transcript, an FBI interrogation with Reality Winner, which Tina Satter assembled into a weird, otherworldly piece of hyper-naturalistic theatre. The actors spoke the transcript word for word—every awkward pause and cough and hm and throat clearing, every weird background noise and seeming non sequitur. What both *Dana H* and *Is This a Room* accomplish is to subvert our expectation of theatre as a medium of illusion.
 
