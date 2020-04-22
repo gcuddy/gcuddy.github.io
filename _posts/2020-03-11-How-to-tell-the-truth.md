@@ -8,7 +8,9 @@ permalink: /tellthetruth
 
 ### Perception, illusion, and un-reality
 
-Recently I caught Lucas Hnath's new work, *[Dana H](https://www.vineyardtheatre.org/dana-h/)*, which I thought was one of the most stunning things I've seen in a long time. As a piece of theatre, it's shocking and sort of unreal: Hnath has cut together real-life interviews (conducted by Steve Cosson of The Civilians) with his mother, retelling her harrowing story of being abducted by a member of the Aryan Brotherhood, into a 75-minute sort of "narrative". This audio is then played for us while Deidre O'Connell puts in a pair of headphones and lip-syncs the entire thing, beat for beat. That's pretty much the entire show. But its effect is devastating, a feeling not like anything I've quite felt before in the theatre.
+Recently I caught Lucas Hnath's new work, *[Dana H](https://www.vineyardtheatre.org/dana-h/)*, which I thought was one of the most stunning things I've seen in a long time. 
+
+As a piece of theatre, *Dana H* is shocking and sort of unreal: Hnath has cut together real-life interviews (conducted by Steve Cosson of The Civilians) with his mother, retelling her harrowing story of being abducted by a member of the Aryan Brotherhood, into a 75-minute sort of "narrative". This audio is then played for us while Deidre O'Connell puts in a pair of headphones and lip-syncs the entire thing, beat for beat. That's pretty much the entire show. But its effect is devastating, a feeling not like anything I've quite felt before in the theatre.
 
 ![](/images/DanaH.jpg)
 
