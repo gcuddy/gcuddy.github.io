@@ -14,14 +14,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Gus Cuddy
+tagline: Brooklyn-based writer, actor, & maker.
 email: gus.cuddy@gmail.com
-description: Brookyln-based writer, actor, & maker.
-# baseurl: "" # the subpath of your site, e.g. /blog
-url: https://guscuddy.com # the base hostname & protocol for your site, e.g. 
+description: Gus is writing about theatre, culture, creativity, society, and the future. He also performs and makes theatre and movies.
+url: https://guscuddy.com
 
+author:
+  name: Gus Cuddy
+  twitter: guscuddy
 twitter:
   username: guscuddy
   card: summary
+social:
+  name: Gus Cuddy
+  links:
+    - https://twitter.com/guscuddy
+    - https://facebook.com/guscuddy
+    - https://instagram.com/guscuddy
 github_username: gcuddy
 
 future: false
