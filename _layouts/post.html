@@ -6,7 +6,7 @@
   <body class="pa4">
 
     <div class="black measure f4 center mt5">
-    <a id="title_link" class="black no-underline" href="{{ page.url }}"><h1 id="intro" class="tc tl-l f1 lh-title">{{ page.title }}</h1></a>
+    <a id="title_link" class="black no-underline" href="{{ page.url }}"><h1 id="intro" class="tc tl-l f1 lh-title mb2">{{ page.title }}</h1></a>
     <div class="tc tl-l"><span id="slug" class="f5 gray dib">{{ page.date | date: "%B %-d, %Y" }}</span></div>
 </h1>
 
@@ -43,10 +43,6 @@
     $("#my-form").hide();
     $(".js-success-message").show();
   });
-});
-
-$(document).ready(function(){
-  $("#post p:first").attr("id", "intro");
 });
 
  </script>

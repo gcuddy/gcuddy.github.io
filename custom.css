@@ -73,6 +73,12 @@ body {
   font-family: 'Roboto Mono', monospace;
 }
 
+#lead::first-letter {
+  font-size: 200%;
+  font-family: 'Libre Baskerville', serif;
+  font-weight: 700;
+}
+
 #article h2 {
   font-weight: 700;
   color: black;
