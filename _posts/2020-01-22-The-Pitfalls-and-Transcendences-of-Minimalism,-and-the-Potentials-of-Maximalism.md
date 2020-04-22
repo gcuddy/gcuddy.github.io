@@ -3,17 +3,19 @@ layout: post
 title: The Cult of Minimalism
 permalink: /minimalism
 description: Minimalism as an artistic genre can lead to transcendence. But its rise as an aesthetic language is more troubling.
+image: /images/Airspace.jpg
 ---
 
+![Airspace](/images/Airspace.jpg)
+*This could be anywhere in gentrified Brooklyn.*
+
+
 In the late 2000s, I became obsessed with a blog called [Zen Habits](https://zenhabits.net/). Written by Leo Babauta, *Habits* was one of the OG self-help blogs, promoting minimalism as a way of life and a productivity hack. It taught seventh grade me to wake up early, try meditating, go on runs (that one didn't last long), set your "MITs"—or "Most Important Tasks"—for the day, and declutter as a means of happiness. It spawned a spin-off site focused on being a minimalist (pre-dating the cringe-inducing [*Minimalists*](https://www.theminimalists.com)), and several books and courses. Zen Habits wasn’t alone: blogs on minimalism became an entire genre, and an important precursor to the Marie Kondo-ization of culture. Bolstered as a necessity by the 2008 recession, minimalism became commandeered as a rallying cry for hipsters, and an answer to the crass, maximalist consumerism of the 90s and early 2000s. It also became a marketing tactic and a style of reverse consumerism, often privileging (surprise) affluent white men who could "adopt" minimalism as an aesthetic, negating greed with faux-simplicity.
+{: #intro}
 
 The aesthetic of minimalism has been surprisingly sturdy. Although originating primarily as an avant-garde genre in American art in the 1960s, minimalism has found a new home not only with the rise of ZenHabits and similar blogs, but with the age of Instagram (which itself took over the visual mantle from the Tumblr and Pinterest days). In those years since Facebook bought it for one billion dollars in 2012, Instagram’s use has skyrocketed, and with that the aesthetics of cleanliness, simplicity, and minimalism. Generally this centers around “beautiful” people, clothing, places, and architecture. Clean lines, clean colors (like white), and a supposed removal of the “excess”. Many startups have capitalized on these aesthetics to formulate a brand, usually accompanied by the same sans-serif fonts spelling out bland slogans equating buying their product or service—which “simplifies” life in some way—with more purpose. But, as we know, startups do not really simplify; the illusion of making our lives simpler has been sold to us for as long as capitalism has been around, and is the propeller that keeps materialism running. Minimalism, thus, has become a brand: for individuals, for influencers, and for companies.
 
 What this amounts to is a suffocating *sameness* in design. This is evidenced by elements of culture as innocuous as [book covers](https://twitter.com/internetkendra/status/1215126916249767936), or in the trends of something like interior design—[what writer Kyle Chayka has deemed “airspace”](https://www.theverge.com/2016/8/3/12325104/airbnb-aesthetic-global-minimalism-startup-gentrification)—that is monopolizing cafes, AirBNBs, hotels, Brooklyn co-working spaces, and the like. It’s hard not to feel there is something political to these aesthetics. In a piece for *Current Affairs*, Nathan J. Robinson deemed the minimalism design trend as “[the aesthetic language of gentrification](https://www.currentaffairs.org/2019/02/death-to-minimalism)”.
-
-![](/images/Airspace.jpg)
-
-##### This could be anywhere in gentrified Brooklyn.
 
 But how did we get here? How did a style of art become a grossly capitalized aesthetic, fitting in with [the flattening whims of algorithms](https://guscuddy.substack.com/p/the-curtain-10819-?r=iq1l&utm_campaign=post&utm_medium=web&utm_source=copy)? Part of it can be attributed to the relentless drive towards optimization and profitability that technology and capitalism have wrought. This drive brings with it an oppressive noisiness, one that minimalism-as-a-cult promises to redeem (either through a podcast or ebook, or for the price of $10 a month). The heat of modernity leads to a ["longing for less"](http://www.theguardian.com/lifeandstyle/2020/jan/03/empty-promises-marie-kondo-craze-for-minimalism), as Chakya calls it. An unquenchable thirst for a more simple world, or a [nostalgia](https://guscuddy.substack.com/p/the-curtain-31-nostalgia-is-toxic) for an authenticity that was never really there.
 
