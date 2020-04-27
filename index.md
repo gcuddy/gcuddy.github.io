@@ -10,7 +10,7 @@ active: home
 <div id="intro" class="lh-title dib f1-ns f2-m f2">hi, i'm gus.</div>
 
 
-Welcome to my cyber home.  I [write](/blog), [act](/acting), and make theatre and movies.
+Welcome to my web home.  I [write](/blog), [act](/acting), and make theatre and movies.
 
 Each week I send out a popular email called The Curtain. It's a weekly deep dive into the world of theatre, culture and creativity, featuring my own writing and a collection of links and notes.
 
