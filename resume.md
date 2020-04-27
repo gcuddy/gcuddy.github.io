@@ -54,9 +54,9 @@ Find me on [Actor's Access](http://resumes.actorsaccess.com/guscuddy), [Backstag
 <h2 id="intro" class="f3 mt1"><a class="link pointer no-underline hover-red" id="show_corpse">the corpse washer</a></h2>
 <div id="corpse">
 
-"Gus Cuddy in his tightly-fitted t-shirts brings **loads of sexual energy** to the theater as Jawad’s older brother Ammoury" [(WFPL)](https://wfpl.org/review-periphery-narratives-take-center-stage-in-actors-corpse-washer/)
+<p>&#8220;Gus Cuddy in his tightly-fitted t-shirts brings <strong>loads of sexual energy</strong> to the theater as Jawad’s older brother Ammoury&#8221; <a href="https://wfpl.org/review-periphery-narratives-take-center-stage-in-actors-corpse-washer/">(WFPL)</a></p>
 
-"The fluid staging by Mark Brokaw, and **a richly appealing cast**, helped show [The Corpse Washer] in its best light. [(American Theatre)](https://www.americantheatre.org/2019/04/28/humanas-changing-conversation-and-who-leads-it/)"
+<p>&#8220;The fluid staging by Mark Brokaw, and <strong>a richly appealing cast</strong>, helped show [The Corpse Washer] in its best light. <a href="https://www.americantheatre.org/2019/04/28/humanas-changing-conversation-and-who-leads-it/">(American Theatre)</a>&#8221;</p>
 
 
 {% include image-gallery.html folder="/images/a/corpse" %}
@@ -117,9 +117,9 @@ Find me on [Actor's Access](http://resumes.actorsaccess.com/guscuddy), [Backstag
 <h2 id="intro" class="f3 mt4"><a class="link pointer no-underline hover-red" id="show_anne">the diary of anne frank</a></h2>
 <div id="anne">
 
-"In Peter, **deftly portrayed by Gus Cuddy**, we find Anne’s male coming-of-age counterpart who deftly conveys what it is like to lurch from awkward, self-conscious adolescent to thoughtful, intelligent young man, who becomes Anne’s love interest." [(Beyond the Nest)](https://rochester.beyondthenest.com/content/beyond-nests-review-gevas-diary-anne-frank)
+<p>&#8220;In Peter, <strong>deftly portrayed by Gus Cuddy</strong>, we find Anne’s male coming-of-age counterpart who deftly conveys what it is like to lurch from awkward, self-conscious adolescent to thoughtful, intelligent young man, who becomes Anne’s love interest.&#8221; <a href="https://rochester.beyondthenest.com/content/beyond-nests-review-gevas-diary-anne-frank">(Beyond the Nest)</a></p>
 
-"The acting is distinguished with rich performances from Ann Arvia and John G. Preston as the struggling and argumentative Van Daans, **an endearing Gus Cuddy as their son Peter**, and Michael Santo as Mr. Dussel, the grumpy dentist with an extreme dislike for the household cat." [(Democrat & Chronicle)](https://www.democratandchronicle.com/story/lifestyle/2018/02/20/stirring-hendrickson-performance-brings-anne-frank-new-heights/353717002/)
+<p>&#8220;The acting is distinguished with rich performances from Ann Arvia and John G. Preston as the struggling and argumentative Van Daans, <strong>an endearing Gus Cuddy as their son Peter</strong>, and Michael Santo as Mr. Dussel, the grumpy dentist with an extreme dislike for the household cat.&#8221; <a href="https://www.democratandchronicle.com/story/lifestyle/2018/02/20/stirring-hendrickson-performance-brings-anne-frank-new-heights/353717002/">(Democrat &amp; Chronicle)</a></p>
 
 
 {% include image-gallery.html folder="/images/a/anne frank" %}
