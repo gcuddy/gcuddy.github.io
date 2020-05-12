@@ -48,6 +48,9 @@ collections:
     output: true
   shows:
     output: true
+  share:
+    permalink: /:collection/:name
+    output: true
 
 # Build settings
 markdown: kramdown
