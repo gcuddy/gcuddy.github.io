@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Build the Future
-description: Thinking about possibilities for the future of theatre during COVID-19.
+description: A vision for a sustainable theatre.
 image: /images/Alley.jpeg
 permalink: /howtobuildthefuture
 ---
