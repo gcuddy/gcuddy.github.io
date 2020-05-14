@@ -1,12 +1,12 @@
 ---
 title: The Rise of the Influencer Individual in Theatre
 description: The future of theatre rests in the individual.
-image: /images/Medea.jpeg
+image: /images/Medea.jpg
 layout: post
 permalink: /influencer
 ---
 
-![](/images/Medea.jpeg)
+![](/images/Medea.jpg)
 
 *The original Dutch production of Simon Stone's MEDEA. Photo by Sanne Peper.*
 
