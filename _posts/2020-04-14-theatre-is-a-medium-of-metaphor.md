@@ -5,10 +5,6 @@ description: Understanding and approaching the differences between theatre and f
 permalink: /theatreandfilm
 ---
 
-Theatre is a medium of metaphor, film is a medium of relation
-
-Understanding and approaching the differences between theatre and film
-
 Literalism is the great enemy of theatre. If I wanted to see something literal, I would go watch a period movie.
 
 Instead, theatre is an art form of metaphors. It is not merely a visual medium. If it were, you could just have a painter make a pretty stage picture. But that's not what we're going for. It's through metaphor that we, as audiences, fill in the gaps. It's through metaphor that we come to better understand ourselves, better exercise our empathy. The possibilities in theatre are limitless when it is treated in such a way. Suddenly, every aesthetic limitation it seems to have is seen in a new dimension.
