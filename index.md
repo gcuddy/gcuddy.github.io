@@ -4,11 +4,7 @@ title: Home
 active: home
 ---
 
-<p class="tc"><img class="w-100 w-50-ns" src="/images/me.jpg"></p>
-
-
-<div id="intro" class="lh-title dib f1-ns f2-m f2">hi, i'm gus.</div>
-
+<div id="intro" class="lh-title dib f1-ns f2-m f2">👋 hi, i'm gus.</div>
 
 Welcome to my web home.  I [write](/blog), [act](/acting), and make theatre and movies.
 
@@ -50,3 +46,5 @@ I was born in Davis, CA, grew up in Rochester, NY, and currently live in **Brook
 You can email me at gus (at) guscuddy.com
 
 You can also find me on [Twitter](https://twitter.com/guscuddy) (where I'm active) and [Instagram](https://instagram.com/guscuddy) (where I'm less active).
+
+<p class="tc"><img class="w-100" src="/images/g2.jpeg"></p>

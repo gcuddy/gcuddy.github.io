@@ -1,5 +1,6 @@
 ---
 Title: The Entanglement
+description: In which I try to explore the ways in which we are entangled with history, legacies and traumas.
 Layout: post
 permalink: /entanglement
 ---

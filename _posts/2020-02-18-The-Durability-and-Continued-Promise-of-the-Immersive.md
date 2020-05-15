@@ -1,9 +1,9 @@
 ---
 title: The Durability and Continued Promise of the Immersive
+description: Why we're all trying to escape into another world.
 layout: post
+permalink: /immersive
 ---
-
-### Why we're all trying to escape into another world.
 
 I’ve noticed a trend recently.
 

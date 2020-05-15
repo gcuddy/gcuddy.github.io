@@ -1,5 +1,6 @@
 ---
 title: Theatre in the age of COVID-19
+description: Resources and thoughts on a fast-moving disaster.
 layout: post
 permalink: /covid19
 ---

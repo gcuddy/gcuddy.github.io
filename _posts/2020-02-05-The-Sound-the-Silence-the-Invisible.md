@@ -1,5 +1,7 @@
 ---
 title: The Sound, the Silence, the Invisible
+description: Life is terribly noisy. Can we do anything about it?
+permalink: /soundsilenceinvisible
 layout: post
 ---
 
