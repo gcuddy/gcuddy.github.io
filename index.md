@@ -8,7 +8,7 @@ active: home
 
 Welcome to my web home.  I [write](/blog), [act](/acting), and make theatre and movies.
 
-Each week I send out a popular email called The Curtain. It's a weekly deep dive into the world of theatre, culture and creativity, featuring my own writing and a collection of links and notes.
+Each Tuesday I send out a popular email called The Curtain. It's an exploration and analysis of culture, with a focus on theatre, film and other arts & media in the digital age.
 
 Join 100+ subscribers and enter your email below:
 
@@ -35,7 +35,7 @@ Join 100+ subscribers and enter your email below:
 });
  </script>
 
-This website is a compendium of my favorite things. My essays cover topics like culture, theatre, media, technology, society, art, and creativity. But most of my work centers around our interactions and relationships with culture, with the framing of my background in theatre. My most popular writing includes essays like [Cultural Nostalgia is Toxic](/nostalgia), [The Cult of Minimalism](/minimalism) and my 2019 essays on theatre's state of the [audience](/audience) and [criticism](/criticism).
+This website is a compendium of my favorite things. My essays cover topics like culture, theatre, media, film, technology, society, art, and creativity. But most of my work centers around our interactions and relationships with culture, with the framing of my background in theatre and film. My most popular writing includes essays like [Cultural Nostalgia is Toxic](/nostalgia), [The Cult of Minimalism](/minimalism) and my 2019 essays on theatre's state of the [audience](/audience) and [criticism](/criticism).
 
 To see the archive of all my writing, [click here](/blog).
 
