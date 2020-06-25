@@ -16,7 +16,7 @@ Join 100+ subscribers and enter your email below:
  <form id="my-form" name="email-capture" class="measure-wide br2-ns ba b--black-10 center" data-netlify="true" method="POST">
    <div class="cf">
    <input class="input-reset bn fl black bg-white pa3 lh-solid w-100 w-75-m w-80-l br2-ns br--left-ns" name="email" type="email" placeholder="Email" required>
-   <button type="submit" class="button-reset fl pv3 tc bn bg-red white pointer w-100 w-25-m w-20-l br2-ns br--right-ns">Subscribe</button>
+   <button type="submit" class="button-reset fl pv3 tc bn bg-pers hover-pers-yellow white pointer w-100 w-25-m w-20-l br2-ns br--right-ns">Subscribe</button>
    </div>
  </form>
 

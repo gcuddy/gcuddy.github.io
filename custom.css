@@ -1,7 +1,65 @@
+:root {
+  --pers: #8F0C50;
+  --pers-yellow: #FFD700;
+}
+
 body {
   color: black;
   background-color: white;
-  font-family: "Work Sans", sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont,
+               'avenir next', avenir,
+               'helvetica neue', helvetica,
+               ubuntu,
+               roboto, noto,
+               'segoe ui', arial,
+               sans-serif;
+}
+
+a {
+    text-decoration-thickness: .1em;
+}
+
+
+a:hover {
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-color: #FFD700;
+  text-decoration-thickness: .2em;
+}
+
+.lh-copy a:hover {
+    color: var(--pers);
+}
+
+#header a {
+  color: black;
+}
+
+#twitter a {
+  color: black;
+}
+
+
+@media (prefers-color-scheme: dark) {
+  #header a {
+    color: white;
+  }
+}
+
+::selection {
+  background: var(--pers-yellow); /* WebKit/Blink Browsers */
+  color: black;
+}
+::-moz-selection {
+  background: var(--pers-yellow); /* Gecko Browsers */
+  color: black;
+}
+
+
+
+
+#header a:hover {
+  color: var(--pers);
 }
 
 /*
@@ -23,7 +81,7 @@ body {
 
 @media (min-width: 60em) {
   #intro_text {
-    margin-left: 10%;
+    /*margin-left: 10%;*/
   }
 }
 
@@ -46,7 +104,7 @@ body {
 
 #header {
   color: black;
-  font-family: "Work Sans", Helvetica, sans-serif;
+  /*font-family: "Work Sans", Helvetica, sans-serif;*/
 }
 
 #blog_posts{
@@ -55,8 +113,8 @@ body {
 
 #blog_posts h2{
   color: black;
-  font-family: "Work Sans", Helvetica, sans-serif;
-  font-weight: 700;
+/*  font-family: "Work Sans", Helvetica, sans-serif;
+*/  font-weight: 700;
 }
 
 #blog_posts a{
@@ -65,22 +123,18 @@ body {
 
 #blog_posts p{
   color: black;
-  font-family: 'Libre Baskerville', serif;
+  // font-family: 'Libre Baskerville', serif;
   margin-bottom: 20px;
-}
-
-#slug {
-  font-family: 'Roboto Mono', monospace;
 }
 
 #lead::first-letter {
   font-size: 200%;
-  font-family: 'Libre Baskerville', serif;
+  // font-family: 'Libre Baskerville', serif;
   font-weight: 700;
 }
 
 #article h2 {
-  font-weight: 700;
+  font-weight: 900;
   color: black;
   margin-bottom: 1%;
 }
@@ -102,8 +156,8 @@ body {
 }
 
 #intro {
-    font-family: 'Libre Baskerville', serif;
-    font-weight: 700;
+    // font-family: 'Libre Baskerville', serif;
+    font-weight: 900;
 }
 
 #acting {
@@ -112,12 +166,12 @@ body {
 
 #logo {
   color: black;
-  font-weight: 800;
+  font-weight: 600;
 }
 
-.lh-copy {
+/*.lh-copy {
   line-height: 1.8;
-}
+}*/
 
 .lh-copy a {
   color: #000;
@@ -127,19 +181,27 @@ body {
   margin-left: -32px;
   margin-right: -32px;
   margin-top: 2rem;
-  border-top: 2px solid #E33654;
+  border-top: 2px solid var(--pers);
   background-color: black;
-  border-bottom: 2px solid #E33654;
+  border-bottom: 2px solid var(--pers);
 }
 
+/* Dark MODE!*/
 @media (prefers-color-scheme: dark) {
   body {
     background-color: black;
     color: white;
   }
+
   .lh-copy a {
     color: white;
   }
+
+  #twitter a {
+    color: white;
+  }
+
+
   #logo {
     color: white;
   }
@@ -155,7 +217,7 @@ body {
 
 }
 
-.lh-copy a:hover {
+/*.lh-copy a:hover {
   color: #E7040F;
 }
 
@@ -165,7 +227,8 @@ body {
 
 #post a:hover {
   color: pink;
-}
+}*/
+
 
 h2 {
   font-size: 1.5rem;
@@ -180,7 +243,7 @@ blockquote {
   border-left-style: solid;
   border-left-width: 1px;
   border-width: .25rem;
-  border-color: red;
+  border-color: var(--pers);
 }
 
 blockquote em {
@@ -220,3 +283,34 @@ table {
 #post h3 {
   font-size:1.25rem;
 }
+
+/* PERSONAL CUSTOM CLASSES */
+
+.bg-pers {
+  background-color: var(--pers);
+}
+
+.hover-pers:hover {
+  color: var(--pers);
+  background-color: inherit;
+}
+
+.hover-pers-yellow:hover {
+  color: var(--pers);
+  background-color: var(--pers-yellow);
+}
+
+.pers {
+  color: var(--pers);
+}
+
+.header__link {
+transition: color 0.2s ease, text-decoration-color 0.2s ease;
+transform: none;
+margin: 0 0 0 0.6em;
+display: inline-block;
+line-height: 1.5;
+font-weight: 700;
+    font-weight: 700;
+}
+

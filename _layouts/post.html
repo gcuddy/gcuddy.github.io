@@ -5,35 +5,31 @@
 
   <body class="pa4">
 
-    <div class="black measure f4 center mt5">
-    <a id="title_link" class="black no-underline" href="{{ page.url }}"><h1 id="intro" class="tc tl-l f2 lh-title mb2">{{ page.title }}</h1></a>
-     <div class="tc tl-l gray f4 mb2"> {{ page.description }}</div>
-    <div class="tc tl-l"><span id="slug" class="f5 gray dib">{{ page.date | date: "%B %-d, %Y" }}</span></div>
+    <div class="center mt5">
+    <h1 id="intro" class="center measure-narrow tc f1 lh-title mb2"><a id="title_link" class="black no-underline" href="{{ page.url }}">{{ page.title }}</a></h1>
+     <div class="center measure tc gray f4 mb2"> {{ page.description }}</div>
+    <div class="tc"><span id="slug" class=" center measure f5 gray dib i">{{ page.date | date: "%B %-d, %Y" }}</span></div>
 </h1>
 
-       <div id="post" class="lh-copy f5">
+       <div id="post" class="lh-copy f4 center measure-wide">
 
        {{ content }}
-
-       <hr />
-
-       <p>If you'd like to receive future posts by email, subscribe to my newsletter below.</p>
 
        </div>
     </div>
        <div class="pa3 pa0-l" id="footer">
-         <h2 class="center tc white f2">Sign Up for <span class="i">The Curtain</span></h2>
-         <p class="near-white f5 mb4 measure center tc">Join 100+ readers who receive The Curtain email newsletter in their inbox. Each week I deep dive into ideas and links from theatre, culture, creativity, film, and more.</p>
+         <h2 class="center tc lh-title white f2">Sign Up for <span class="i">The Curtain</span></h2>
+         <p class="near-white lh-copy f5 mb4 measure center tc">Join 100+ readers who receive The Curtain email newsletter in their inbox. Each week I deep dive into ideas and links from theatre, culture, creativity, film, and more.</p>
  <form id="my-form" name="email-capture" class="measure-wide br2-ns ba b--black-10 center pb2" data-netlify="true" method="POST">
    <div class="cf">
    <input class="input-reset bn fl black bg-white pa3 lh-solid w-100 w-75-m w-80-l br2-ns br--left-ns" name="email" type="email" placeholder="Email" required>
-   <button type="submit" class="button-reset fl pv3 tc bn bg-red white pointer w-100 w-25-m w-20-l br2-ns br--right-ns">Subscribe</button>
+   <button type="submit" class="button-reset fl pv3 tc bn bg-pers hover-pers-yellow white pointer w-100 w-25-m w-20-l br2-ns br--right-ns">Subscribe</button>
    </div>
  </form>
 
 
  <p class="js-success-message is-hidden f4" style="display: none; color:green; text-align: center;">Success! You'll receive your first email soon.</p>
- <p class="near-white f5 mt2 measure center tc">"<strong>I look forward to it every week</strong> and love the multi-pronged approach to absorbing artwork, theater and otherwise."</p>
+ <p class="lh-copy near-white f5 mt2 measure center tc">"<strong>I look forward to it every week</strong> and love the multi-pronged approach to absorbing artwork, theater and otherwise."</p>
 
 <script>
   $("#my-form").submit(function(e) {
@@ -52,7 +48,7 @@
 
          </div>
         <div id="twitter">
-          <p class="b tc f5"><a class="link dim black underline" target="_blank" href="https://twitter.com/guscuddy">Connect with me on twitter.</a></p>
+          <p class="b tc f5"><a class="" target="_blank" href="https://twitter.com/guscuddy">Connect with me on twitter.</a></p>
         </div>
 
        </div>

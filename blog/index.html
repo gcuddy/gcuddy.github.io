@@ -7,9 +7,9 @@ active: blog
 
 <!-- post list -->
 {% for post in paginator.posts %}
-<article id="article"><a href="{{post.url | prepend: site.baseurl}}" class="no-underline"><h2 id="intro" class="lh-title f2 link no-underline underline-hover">{{post.title}}</h2></a>
+<article id="article"><h2 id="intro" class="lh-title f2-ns f3"><a href="{{post.url | prepend: site.baseurl}}" class="link no-underline">{{post.title}}</a></h2>
   <p class="f5 lh-copy mv1">{{ post.description }}</p>
-  <span id="slug" class="gray dib mb4 f6"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%B %-d, %Y" }}</time> ⦿ {% include read-time.html content=post.content %}</span>
+  <span id="slug" class="gray dib mb4 f6 i"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%B %-d, %Y" }}</time> | {% include read-time.html content=post.content %}</span>
 </article>
 {% endfor %}
 
