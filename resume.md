@@ -45,6 +45,8 @@ ivyrockmanagement@gmail.com
 
 Find me on [Actor's Access](http://resumes.actorsaccess.com/guscuddy), [Backstage](http://backstage.com/u/guscuddy),  [Twitter](http://twitter.com/guscuddy), and [Instagram](http://instagram.com/guscuddy). Or [email me](mailto:gus.cuddy@gmail.com) personally.
 
+I was born in Davis, CA, grew up in Rochester, NY, and currently live in **Brooklyn, NY**. I'm of Armenian, Lebanese, Egyptian and Irish descent. [But identity is complicated](/2dracism).
+
 ---
 
 <div id="intro" class="lh-title dib f1-ns f2-m f2">photos <span class="i">&</span> press</div>
