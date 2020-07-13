@@ -35,11 +35,13 @@ Join 100+ subscribers and enter your email below:
 });
  </script>
 
-This website is a compendium of my favorite things. My essays cover topics like culture, theatre, media, film, technology, society, art, and creativity. But most of my work centers around our interactions and relationships with culture, with the framing of my background in theatre and film. My most popular writing includes essays like [Cultural Nostalgia is Toxic](/nostalgia), [The Cult of Minimalism](/minimalism) and my 2019 essays on theatre's state of the [audience](/audience) and [criticism](/criticism).
+This website is a compendium of my favorite things. My essays cover topics like culture, theatre, media, film, technology, society, art, and creativity. But most of my work centers around our interactions and relationships with culture, with the framing of my background in theatre, film and technology. My most popular writing includes essays like [Cultural Nostalgia is Toxic](/nostalgia), [The Cult of Minimalism](/minimalism) and my 2019 essays on theatre's state of the [audience](/audience) and [criticism](/criticism).
 
 To see the archive of all my writing, [click here](/blog).
 
 Beyond writing essays, [I'm an actor](/acting), playwright and director. I've been seen at the Humana Festival at Actor's Theatre of Louisville, Geva Theatre, Arizona Theatre Company, and many more. I love to dive into things and make exhilirating theatre with a room full of great collaborators.
+
+I'm also a hobbyist web developer, designer and programmer.
 
 I was born in Davis, CA, grew up in Rochester, NY, and currently live in **Brooklyn, NY**. I'm of Armenian, Lebanese, Egyptian and Irish descent. [But identity is complicated](/2dracism).
 
