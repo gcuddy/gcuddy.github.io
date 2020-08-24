@@ -368,14 +368,24 @@ a#newsletter:hover {
 
 #newsletter_intro {
   font-weight: 900;
-  color: var(--pers);
+  color: var(--near-black);
+}
+
+#newsletter_intro:hover {
+  transform: rotate(2deg);
+  color: var(--pers-yellow);
 }
 
 @media(prefers-color-scheme:dark) {
   #newsletter_intro {
   font-weight: 900;
-  color: var(--pers-yellow);
+  color: var(--near-white);
 }
+
+#newsletter_intro:hover {
+  color: var(--pers);
+}
+
 }
 
 
@@ -383,4 +393,14 @@ a#newsletter:hover {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+span.highlight {
+    background: linear-gradient(90deg, var(--pers-yellow) 0%, #FFB700 100%);
+    border-radius: .5rem;
+    color: #111;
+    padding: 0.1rem 0.5rem;
+    vertical-align: middle;
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
 }

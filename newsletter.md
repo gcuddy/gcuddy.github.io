@@ -9,7 +9,7 @@ title: Newsletter
 
 Hey! I'd love to stay in touch.
 
-The Curtain is my weekly newsletter, and I'd love to have you on the list. Each Tuesdsay I share what I'm thinking about in the world of arts and the internet, and curate the best links and esoterica I found during the week.
+*[The Curtain](https://guscuddy.substack.com)* is my weekly newsletter, and I'd love to have you on the list. Each Tuesday I share what I'm thinking about in the world of arts and the internet, and curate the best links and esoterica I found during the week.
 
 Sign up below:
 
@@ -41,8 +41,9 @@ You can always read [the full archive here](https://guscuddy.substack.com/archiv
 
 The emails are sent from my personal email and you can reply directly or unsubscribe anytime.
 
-## What People Are Saying:
+# What People Are Saying:
+{:.f2}
 
-"I look forward to it every week and love the multi-pronged approach to absorbing artwork, theater and otherwise. It is rare and even if I don't always agree, I dig it."
+"<span class="highlight">I look forward to it every week and love the multi-pronged approach to absorbing artwork, theater and otherwise. It is rare and even if I don't always agree, I dig it.</span>"
 
-"Your newsletter is like one of the highlights of my week." 
+"<span class="highlight">Your newsletter is like one of the highlights of my week.</span>" 
