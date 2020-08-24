@@ -1,6 +1,8 @@
 :root {
   --pers: #8F0C50;
   --pers-yellow: #FFD700;
+  --near-black: #111111;
+  --near-white: #F4F4F4;
 }
 
 body {
@@ -34,6 +36,10 @@ a:hover {
 #header a {
   color: black;
 }
+#header a:hover {
+  color: var(--pers);
+}
+
 
 #twitter a {
   color: black;
@@ -42,25 +48,32 @@ a:hover {
 
 @media (prefers-color-scheme: dark) {
   #header a {
-    color: white;
+    color: var(--near-white);
+  }
+  a:hover {
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-color: var(--pers);
+  text-decoration-thickness: .2em;
+  }
+  #header a:hover {
+  color: var(--pers-yellow);
   }
 }
 
 ::selection {
   background: var(--pers-yellow); /* WebKit/Blink Browsers */
-  color: black;
+  color: var(--near-black);
 }
 ::-moz-selection {
   background: var(--pers-yellow); /* Gecko Browsers */
-  color: black;
+  color: var(--near-black);
 }
 
 
 
 
-#header a:hover {
-  color: var(--pers);
-}
+
 
 /*
 @media (min-width: 1150px) {
@@ -166,7 +179,7 @@ a:hover {
 
 #logo {
   color: black;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 /*.lh-copy {
@@ -182,37 +195,43 @@ a:hover {
   margin-right: -32px;
   margin-top: 2rem;
   border-top: 2px solid var(--pers);
-  background-color: black;
+  background-color: var(--near-black);
   border-bottom: 2px solid var(--pers);
 }
 
 /* Dark MODE!*/
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: black;
-    color: white;
+    background-color: #111111;
+    color: #F4F4F4;
   }
 
   .lh-copy a {
-    color: white;
+    color: var(--near-white);
+  }
+  .lh-copy a:hover {
+    color: var(--pers-yellow);
   }
 
   #twitter a {
-    color: white;
+    color: var(--near-white);
   }
 
 
   #logo {
-    color: white;
+    color: var(--near-white);
   }
   #blog_posts h2, #blog_posts a, #blog_posts p {
-    color: white;
+    color: var(--near-white);
   }
   #article h2, #article p, #article a  {
-    color: white;
+    color: var(--near-white);
   }
   #post, #title_link, #copyright a, blockquote p {
-    color:white;
+    color:var(--near-white);
+  }
+  #article a:hover, a#title_link:hover {
+    text-decoration-color: var(--pers-yellow);
   }
 
 }
@@ -311,6 +330,57 @@ margin: 0 0 0 0.6em;
 display: inline-block;
 line-height: 1.5;
 font-weight: 700;
-    font-weight: 700;
 }
 
+
+.pers-yellow {
+  color: var(--pers-yellow);
+}
+
+@media screen and (min-width: 750px) {
+a#newsletter {
+  padding: 3px;
+  color: var(--pers);
+  background-color: var(--pers-yellow);
+  font-weight: 600;
+}
+
+a#newsletter:hover {
+  background-color: var(--pers);
+  color: var(--pers-yellow);
+  text-decoration: underline;
+}
+@media(prefers-color-scheme:dark) {
+  a#newsletter {
+  background-color: var(--pers);
+  color: var(--pers-yellow);
+}
+
+a#newsletter:hover {
+  color: var(--pers);
+  background-color: var(--pers-yellow);
+  text-decoration: underline;
+}
+}
+
+}
+
+
+#newsletter_intro {
+  font-weight: 900;
+  color: var(--pers);
+}
+
+@media(prefers-color-scheme:dark) {
+  #newsletter_intro {
+  font-weight: 900;
+  color: var(--pers-yellow);
+}
+}
+
+
+#post img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

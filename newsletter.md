@@ -5,11 +5,11 @@ active: newsletter
 title: Newsletter
 ---
 
-<div id="intro" class="lh-title dib f1-ns f2-m f2">The Curtain</div>
+<div id="newsletter_intro" class="lh-title dib f1-ns f2-m f2">The Curtain</div>
 
 Hey! I'd love to stay in touch.
 
-The Curtain is my weekly newsletter, and I'd love to have you on the list. Each Tuesdsay I share what I'm thinking about in the world of culture and creativity, and curate the best links and esoterica I found during the week.
+The Curtain is my weekly newsletter, and I'd love to have you on the list. Each Tuesdsay I share what I'm thinking about in the world of arts and the internet, and curate the best links and esoterica I found during the week.
 
 Sign up below:
 
@@ -17,11 +17,11 @@ Sign up below:
  <form id="my-form" name="email-capture" class="measure-wide br2-ns ba b--black-10 center" data-netlify="true" method="POST">
    <div class="cf">
    <input class="input-reset bn fl black bg-white pa3 lh-solid w-100 w-75-m w-80-l br2-ns br--left-ns" name="email" type="email" placeholder="Email" required>
-   <button type="submit" class="button-reset fl pv3 tc bn bg-pers hover-pers-yellow white pointer w-100 w-25-m w-20-l br2-ns br--right-ns">Subscribe</button>
+   <button type="submit" class="button-reset fl pv3 tc bn bg-pers hover-pers-yellow pers-yellow fw7 white pointer w-100 w-25-m w-20-l br2-ns br--right-ns">Subscribe</button>
    </div>
  </form>
 
- <p class="js-success-message is-hidden f5" style="display: none; color:green; text-align: center;">Success! You'll receive your first email soon.</p>
+ <p class="js-success-message is-hidden f4" style="display: none; color:green; text-align: center;">Success! You'll receive your first email soon.</p>
 </div>
 
 <script>
@@ -35,6 +35,7 @@ Sign up below:
   });
 });
  </script>
+
 
 You can always read [the full archive here](https://guscuddy.substack.com/archive).
 
