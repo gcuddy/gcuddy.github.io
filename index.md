@@ -4,13 +4,15 @@ title: Home
 active: home
 ---
 
-<div id="intro" class="lh-title dib f1-ns f2-m f2">hi, i'm gus.</div>
+<div id="intro" class="lh-title dib f1-ns f2-m f2">hi, i'm gus!</div>
 
-Welcome to my web home.  I [write](/blog), [act](/acting), and make theatre and movies.
+Welcome to my web home.  I'm a [performer](/acting), [writer](/blog), theatremaker, and filmmaker.
+
+---
 
 Each Tuesday I send out an email newsletter called The Curtain. It's an exploration and analysis of culture, with a focus on theatre, film and other arts & media in the digital age.
 
-Join hundreds of subscribers and enter your email below:
+You can subscribe by entering your email below:
 
 <div>
  <form id="my-form" name="email-capture" class="measure-wide br2-ns ba b--black-10 center" data-netlify="true" method="POST">
@@ -34,8 +36,10 @@ Join hundreds of subscribers and enter your email below:
   });
 });
  </script>
+ 
+---
 
-This website is a compendium of my favorite things. My essays cover topics like culture, theatre, media, film, technology, society, art, and creativity. But most of my work centers around our interactions and relationships with culture, with the framing of my background in theatre, film and technology. My most popular writing includes essays like [Cultural Nostalgia is Toxic](/nostalgia), [The Cult of Minimalism](/minimalism) and my 2019 essays on theatre's state of the [audience](/audience) and [criticism](/criticism).
+My short essays cover topics like culture, theatre, media, film, technology, society, art, and creativity. But most of my work centers around our interactions and relationships with culture, with the framing of my background in theatre, film and technology. My most popular writing includes essays like [Cultural Nostalgia is Toxic](/nostalgia), [The Cult of Minimalism](/minimalism) and my 2019 essays on theatre's state of the [audience](/audience) and [criticism](/criticism).
 
 To see the archive of all my writing, [click here](/blog).
 
